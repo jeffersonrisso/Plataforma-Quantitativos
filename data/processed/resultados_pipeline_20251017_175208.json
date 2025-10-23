@@ -1,0 +1,4831 @@
+{
+  "Projeto arquitetura Legal Cartão Joinville.pdf": {
+    "status": "sucesso",
+    "arquivo": "Projeto arquitetura Legal Cartão Joinville.pdf",
+    "estatisticas_texto": {
+      "linhas": 247,
+      "palavras": 922,
+      "caracteres": 6122
+    },
+    "secoes_identificadas": 6,
+    "resultados": {
+      "parser_geral": {
+        "codigo_descricao": {
+          "quantidade": 61,
+          "materiais": [
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M002",
+              "descricao": "m",
+              "dimensoes": null,
+              "texto_original": "M002 -m"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M003",
+              "descricao": "m",
+              "dimensoes": null,
+              "texto_original": "M003 -m"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M005",
+              "descricao": "m",
+              "dimensoes": null,
+              "texto_original": "M005 -m"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M006",
+              "descricao": "m",
+              "dimensoes": null,
+              "texto_original": "M006 -m"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M007",
+              "descricao": "a",
+              "dimensoes": null,
+              "texto_original": "M007 -a"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M001",
+              "descricao": "m",
+              "dimensoes": null,
+              "texto_original": "M001 -m"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M004",
+              "descricao": "l",
+              "dimensoes": null,
+              "texto_original": "M004 -l"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M008",
+              "descricao": "a",
+              "dimensoes": null,
+              "texto_original": "M008 -a"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M009",
+              "descricao": "a",
+              "dimensoes": null,
+              "texto_original": "M009 -a"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M010",
+              "descricao": "b",
+              "dimensoes": null,
+              "texto_original": "M010 -b"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M011",
+              "descricao": "a",
+              "dimensoes": null,
+              "texto_original": "M011 -a"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M012",
+              "descricao": "a",
+              "dimensoes": null,
+              "texto_original": "M012 -a"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M013",
+              "descricao": "b",
+              "dimensoes": null,
+              "texto_original": "M013 -b"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M014",
+              "descricao": "m",
+              "dimensoes": null,
+              "texto_original": "M014 -m"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M015",
+              "descricao": "b",
+              "dimensoes": null,
+              "texto_original": "M015 -b"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M007",
+              "descricao": "A",
+              "dimensoes": null,
+              "texto_original": "M007A"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M002",
+              "descricao": "A",
+              "dimensoes": null,
+              "texto_original": "M002\nA "
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M0010",
+              "descricao": ",",
+              "dimensoes": null,
+              "texto_original": "M0010,"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M001",
+              "descricao": "A",
+              "dimensoes": null,
+              "texto_original": "M001\nA "
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M007",
+              "descricao": "E",
+              "dimensoes": null,
+              "texto_original": "M007\nE"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M007",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M007\nM"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M007",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M007 M"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M009",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M009\nM"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M005",
+              "descricao": "E",
+              "dimensoes": null,
+              "texto_original": "M005E"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M010",
+              "descricao": "E",
+              "dimensoes": null,
+              "texto_original": "M010E"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M003",
+              "descricao": "E",
+              "dimensoes": null,
+              "texto_original": "M003\nE"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M003",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M003\nM"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M003",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M003\nM"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M003",
+              "descricao": "A",
+              "dimensoes": null,
+              "texto_original": "M003A"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M007",
+              "descricao": "E",
+              "dimensoes": null,
+              "texto_original": "M007\nE"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M002",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M002 M"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M002",
+              "descricao": "E",
+              "dimensoes": null,
+              "texto_original": "M002E"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M0120",
+              "descricao": ",",
+              "dimensoes": null,
+              "texto_original": "M0120,"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M0130",
+              "descricao": ",",
+              "dimensoes": null,
+              "texto_original": "M0130,"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M007",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M007 M"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M007",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M007M"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M007",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M007\nM"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M001",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M001M"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M014",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M014M"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M007",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M007 M"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M007",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M007\nM"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M007",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M007 M"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M007",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M007 M"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M003",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M003M"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M003",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M003\nM"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M003",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M003\nM"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M003",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M003M"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M003",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M003\nM"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M007",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M007M"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M007",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M007M"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M011",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M011M"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M011",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M011\nM"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M003",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M003M"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M003",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M003 M"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M011",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M011M"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M003",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M003M"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M011",
+              "descricao": "M",
+              "dimensoes": null,
+              "texto_original": "M011\nM"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M010",
+              "descricao": "0",
+              "dimensoes": null,
+              "texto_original": "M010\n0"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M010",
+              "descricao": "f",
+              "dimensoes": null,
+              "texto_original": "M010f"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M013",
+              "descricao": "p",
+              "dimensoes": null,
+              "texto_original": "M013\np"
+            },
+            {
+              "estrutura": "codigo_descricao",
+              "codigo": "M010",
+              "descricao": "0",
+              "dimensoes": null,
+              "texto_original": "M010\n0"
+            }
+          ]
+        },
+        "item_medidas": {
+          "quantidade": 14,
+          "materiais": [
+            {
+              "estrutura": "item_medidas",
+              "descricao": "--- PÁGINA 1 ---\nPROJETO DE ARQUITETURA \n-CARTÃO DE TODOS JOINVILLE -SC -\nARQUITETO E URBANISTA ANDRÉ DA SILVA MARTINS -CAU A56427 -3 AUTOR DO PROJETO:ADMINISTRADORA DE CARTÃO DE TODOS DE JOINVILLE  LTDA PROPRIETÁRIO:\n\n--- PÁGINA 2 ---\nM002 -mesa atendimento recepção MDF (",
+              "largura": "135",
+              "altura": "60",
+              "profundidade": "75",
+              "texto_original": "--- PÁGINA 1 ---\nPROJETO DE ARQUITETURA \n-CARTÃO DE TODOS JOINVILLE -SC -\nARQUITETO E URBANISTA ANDRÉ DA SILVA MARTINS -CAU A56427 -3 AUTOR DO PROJETO:ADMINISTRADORA DE CARTÃO DE TODOS DE JOINVILLE  LTDA PROPRIETÁRIO:\n\n--- PÁGINA 2 ---\nM002 -mesa atendimento recepção MDF (135x60/75 cm"
+            },
+            {
+              "estrutura": "item_medidas",
+              "descricao": ")\nM003 -mesa tipo baia MDF (",
+              "largura": "80",
+              "altura": "60",
+              "profundidade": "75",
+              "texto_original": ")\nM003 -mesa tipo baia MDF (80x60/75cm"
+            },
+            {
+              "estrutura": "item_medidas",
+              "descricao": ")\nM005 -mesa copa MDF",
+              "largura": "300",
+              "altura": "80",
+              "profundidade": "75",
+              "texto_original": ")\nM005 -mesa copa MDF 300X80/75 cm"
+            },
+            {
+              "estrutura": "item_medidas",
+              "descricao": "\nM006 -mesa redonda ø 90 cm\nM007 -armário baixo com portas MDF (80x",
+              "largura": "50",
+              "altura": "75",
+              "profundidade": null,
+              "texto_original": "\nM006 -mesa redonda ø 90 cm\nM007 -armário baixo com portas MDF (80x50x75cm"
+            },
+            {
+              "estrutura": "item_medidas",
+              "descricao": ")M001 -mesa atendimento MDF (",
+              "largura": "120",
+              "altura": "60",
+              "profundidade": "75",
+              "texto_original": ")M001 -mesa atendimento MDF (120x60/75 cm"
+            },
+            {
+              "estrutura": "item_medidas",
+              "descricao": " limpeza (110x",
+              "largura": "40",
+              "altura": "180",
+              "profundidade": null,
+              "texto_original": " limpeza (110x40x180 cm"
+            },
+            {
+              "estrutura": "item_medidas",
+              "descricao": ")\nM010 -bancada em granito (",
+              "largura": "200",
+              "altura": "60",
+              "profundidade": "90",
+              "texto_original": ")\nM010 -bancada em granito (200x60/90 cm"
+            },
+            {
+              "estrutura": "item_medidas",
+              "descricao": ")\nE007 -forno microondasLEGENDA DE MOBILIÁRIO E EQUIPAMENTOS:\nMOBILIÁRIO\nEQUIPAMENTOSM011 -amário aéreo em mdf (800x",
+              "largura": "35",
+              "altura": "50",
+              "profundidade": null,
+              "texto_original": ")\nE007 -forno microondasLEGENDA DE MOBILIÁRIO E EQUIPAMENTOS:\nMOBILIÁRIO\nEQUIPAMENTOSM011 -amário aéreo em mdf (800x35x50 cm"
+            },
+            {
+              "estrutura": "item_medidas",
+              "descricao": ")\nM012 -aparador mdf (",
+              "largura": "80",
+              "altura": "40",
+              "profundidade": "75",
+              "texto_original": ")\nM012 -aparador mdf (80x40/75 cm"
+            },
+            {
+              "estrutura": "item_medidas",
+              "descricao": ") para cafeteira\nM013 -bancada em granito (",
+              "largura": "290",
+              "altura": "50",
+              "profundidade": "90",
+              "texto_original": ") para cafeteira\nM013 -bancada em granito (290x50/90 cm"
+            },
+            {
+              "estrutura": "item_medidas",
+              "descricao": ")\nM014 -mesa de reuniões mdf (",
+              "largura": "500",
+              "altura": "100",
+              "profundidade": "75",
+              "texto_original": ")\nM014 -mesa de reuniões mdf (500x100/75 cm"
+            },
+            {
+              "estrutura": "item_medidas",
+              "descricao": ")\nM015 -balcão mdf (",
+              "largura": "240",
+              "altura": "40",
+              "profundidade": "110",
+              "texto_original": ")\nM015 -balcão mdf (240x40/110 cm"
+            },
+            {
+              "estrutura": "item_medidas",
+              "descricao": " sem cheiro e lavável)Paredes Internas/divisórias em drywall 10 cm até o forroPAREDES\nREVESTIMENTOS DE PAREDES/DRYWALL\nParedes revestidas com cerâmica branca 32",
+              "largura": "5",
+              "altura": "59",
+              "profundidade": null,
+              "texto_original": " sem cheiro e lavável)Paredes Internas/divisórias em drywall 10 cm até o forroPAREDES\nREVESTIMENTOS DE PAREDES/DRYWALL\nParedes revestidas com cerâmica branca 32,5x59 cm"
+            },
+            {
+              "estrutura": "item_medidas",
+              "descricao": "60 m\nPISOS\nPorcelanato acetinado retificado",
+              "largura": "60",
+              "altura": "60",
+              "profundidade": null,
+              "texto_original": "60 m\nPISOS\nPorcelanato acetinado retificado 60x60 cm"
+            }
+          ]
+        },
+        "quantidade_material": {
+          "quantidade": 213,
+          "materiais": [
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "1",
+              "unidade": null,
+              "material": "--\nPROJETO DE ARQUITETURA \n-CARTÃO DE TODOS JOINVILLE -SC -\nARQUITETO E URBANISTA ANDRÉ DA SILVA MARTINS -CAU A56427 -3 AUTOR DO PROJETO:ADMINISTRADORA DE CARTÃO DE TODOS DE JOINVILLE  LTDA PROPRIETÁRIO:\n\n--- PÁGINA 2 ---\nM002 -mesa atendimento recepção MDF (135x60/75 cm)\nM003 -mesa tipo baia MDF (80x60/75cm)\nM005 -mesa copa MDF 300X80/75 cm\nM006 -mesa redonda ø 90 cm\nM007 -armário baixo com portas MDF (80x50x75cm)M001 -mesa atendimento MDF (120x60/75 cm)\nE002 -pc/notebook\nE003 -impressora\nE004 -geladeira/frigobarE006 -TVE005 -exaustor tipo ventokit E001 -bebedouro/purificador de águaM004 -longarinas recepção\nM008 -armários em MDF para arquivoM009 -armário em MDF prod",
+              "texto_original": "1 ---\nPROJETO DE ARQUITETURA \n-CARTÃO DE TODOS JOINVILLE -SC -\nARQUITETO E URBANISTA ANDRÉ DA SILVA MARTINS -CAU A56427 -3 AUTOR DO PROJETO:ADMINISTRADORA DE CARTÃO DE TODOS DE JOINVILLE  LTDA PROPRIETÁRIO:\n\n--- PÁGINA 2 ---\nM002 -mesa atendimento recepção MDF (135x60/75 cm)\nM003 -mesa tipo baia MDF (80x60/75cm)\nM005 -mesa copa MDF 300X80/75 cm\nM006 -mesa redonda ø 90 cm\nM007 -armário baixo com portas MDF (80x50x75cm)M001 -mesa atendimento MDF (120x60/75 cm)\nE002 -pc/notebook\nE003 -impressora\nE004 -geladeira/frigobarE006 -TVE005 -exaustor tipo ventokit E001 -bebedouro/purificador de águaM004 -longarinas recepção\nM008 -armários em MDF para arquivoM009 -armário em MDF prod"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "110",
+              "unidade": null,
+              "material": "x40x180 cm)\nM010 -bancada em granito (200x60/90 cm)\nE007 -forno microondasLEGENDA DE MOBILIÁRIO E EQUIPAMENTOS:\nMOBILIÁRIO\nEQUIPAMENTOSM011 -amário aéreo em mdf (800x35x50 cm)\nM012 -aparador mdf (80x40/75 cm) para cafeteira\nM013 -bancada em granito (290x50/90 cm)\nM014 -mesa de reuniões mdf (500x100/75 cm)\nM015 -balcão mdf (240x40/110 cm)\nE003 M007ATENDIMENTO\n1",
+              "texto_original": "110x40x180 cm)\nM010 -bancada em granito (200x60/90 cm)\nE007 -forno microondasLEGENDA DE MOBILIÁRIO E EQUIPAMENTOS:\nMOBILIÁRIO\nEQUIPAMENTOSM011 -amário aéreo em mdf (800x35x50 cm)\nM012 -aparador mdf (80x40/75 cm) para cafeteira\nM013 -bancada em granito (290x50/90 cm)\nM014 -mesa de reuniões mdf (500x100/75 cm)\nM015 -balcão mdf (240x40/110 cm)\nE003 M007ATENDIMENTO\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "00 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "M002\nA = 5",
+              "texto_original": "00M002\nA = 5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "54",
+              "unidade": null,
+              "material": "m²ALMOXARIFADO1",
+              "texto_original": "54 m²ALMOXARIFADO1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "00 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "00 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "5",
+              "texto_original": "005"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "00 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "81",
+              "unidade": null,
+              "material": "A = 24",
+              "texto_original": "81A = 24"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "72",
+              "unidade": null,
+              "material": "m²SALA DE VENDAS IIA = 19",
+              "texto_original": "72 m²SALA DE VENDAS IIA = 19"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "66",
+              "unidade": null,
+              "material": "m²SALA DE VENDAS I\n1",
+              "texto_original": "66 m²SALA DE VENDAS I\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "00 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "22",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "22 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "A = 17",
+              "texto_original": "00\nA = 17"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "44",
+              "unidade": null,
+              "material": "m²SALA DE REUNIÕESA = 12",
+              "texto_original": "44 m²SALA DE REUNIÕESA = 12"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "48",
+              "unidade": null,
+              "material": "m²PRÉ-VENDASA = 20",
+              "texto_original": "48 m²PRÉ-VENDASA = 20"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "69",
+              "unidade": null,
+              "material": "m²ADIMPLÊNCIAA = 3",
+              "texto_original": "69 m²ADIMPLÊNCIAA = 3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "35",
+              "unidade": null,
+              "material": "m²SANITÁRIO\nACESSÍVEL\nA = 5",
+              "texto_original": "35 m²SANITÁRIO\nACESSÍVEL\nA = 5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "21",
+              "unidade": null,
+              "material": "m²SANITÁRIO\nFEMININO\nA = 5",
+              "texto_original": "21 m²SANITÁRIO\nFEMININO\nA = 5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "21",
+              "unidade": null,
+              "material": "m²SANITÁRIO\nMASCULINO A = 4",
+              "texto_original": "21 m²SANITÁRIO\nMASCULINO A = 4"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "m²DML\nA = 21",
+              "texto_original": "90 m²DML\nA = 21"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "25",
+              "unidade": null,
+              "material": "m²COPA FUNCIONÁRIOS\nA = 43",
+              "texto_original": "25 m²COPA FUNCIONÁRIOS\nA = 43"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "64",
+              "unidade": null,
+              "material": "m²RECEPÇÃO\nA = 6",
+              "texto_original": "64 m²RECEPÇÃO\nA = 6"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "m²CONCILIAÇÃO\nA = 5",
+              "texto_original": "90 m²CONCILIAÇÃO\nA = 5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "24",
+              "unidade": null,
+              "material": "m²ESPERAM0010",
+              "texto_original": "24 m²ESPERAM0010"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "50 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "E003\nM001\nA = 8",
+              "texto_original": "90E003\nM001\nA = 8"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "36",
+              "unidade": null,
+              "material": "m²GERÊNCIAM007\nE003 M007\nM006\nM007 M007\nE006E0041",
+              "texto_original": "36 m²GERÊNCIAM007\nE003 M007\nM006\nM007 M007\nE006E0041"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "armárioM009\nM008\nM005E004M010E007\n0",
+              "texto_original": "00armárioM009\nM008\nM005E004M010E007\n0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "80 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "80 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "07",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "07\n3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "fechamento em vidro temperado até o forroSobe\nlixeira\nE006M003\nE006M003\nM003\nM003\nM003\nM003ACESSO\nE007 E007 E007\nconciliaçãoassessor de\nparcerias\nrack/dados\npilar\nexistente\narmários em açoM007\nE001\nHALL DA FAMA1",
+              "texto_original": "00fechamento em vidro temperado até o forroSobe\nlixeira\nE006M003\nE006M003\nM003\nM003\nM003\nM003ACESSO\nE007 E007 E007\nconciliaçãoassessor de\nparcerias\nrack/dados\npilar\nexistente\narmários em açoM007\nE001\nHALL DA FAMA1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "201"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "800"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "90 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "90\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "35",
+              "unidade": null,
+              "material": "M002 M002 M002E001 M0120",
+              "texto_original": "35\nM002 M002 M002E001 M0120"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "35",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "35\n0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "900"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "50 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "89",
+              "unidade": null,
+              "material": "M0130",
+              "texto_original": "89M0130"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "50 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "M007 M007\narmários \nem açopilar\nexistenteM007M007\nM007\nM001\nM001M001poltronasM014M015M007 M007 M007\nM007 M007 M0071",
+              "texto_original": "90\nM007 M007\narmários \nem açopilar\nexistenteM007M007\nM007\nM001\nM001M001poltronasM014M015M007 M007 M007\nM007 M007 M0071"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "marketingpessoas\ne cultura\n0",
+              "texto_original": "20\nmarketingpessoas\ne cultura\n0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "69",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "69 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "68",
+              "unidade": null,
+              "material": "M007 M0070",
+              "texto_original": "68M007 M0070"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "50 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "50 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "20 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "90 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "60",
+              "unidade": null,
+              "material": "M003M003 M003\nM003\nM003\nM003\nM003M003\nM003\nM003M007M007M007M007A = 5",
+              "texto_original": "60M003M003 M003\nM003\nM003\nM003\nM003M003\nM003\nM003M007M007M007M007A = 5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "04",
+              "unidade": null,
+              "material": "m²FINANCEIROM011M011M011\nM011\nM003M011M003 M003M011M003 M003M011M011\nM011\n2",
+              "texto_original": "04 m²FINANCEIROM011M011M011\nM011\nM003M011M003 M003M011M003 M003M011M011\nM011\n2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "38",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "38\n0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "40",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "40\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "501"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "quadros\ndecorativosE005\nE005 E005 E005 E005\nE005\n2",
+              "texto_original": "50quadros\ndecorativosE005\nE005 E005 E005 E005\nE005\n2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "4",
+              "texto_original": "50\n4"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "4",
+              "texto_original": "804"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "4",
+              "texto_original": "804"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "80\n2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "M010\n01\nVAGA PARA\nESTACIONAMENTO\n02\nVAGA PARA\nESTACIONAMENTOP4\nP4P4\nP4P4\nP3\nP3P4 P2\nP4P6 P6 P6 P6\nP1\nP1\nP4P1\nP1P1 P1\nJ2P1\nJ1\nJ1P4\nP5fechamento em vidro temperado até o forrofechamento em vidro temperado até o forrofechamento em vidro temperado até o forrofechamento em vidro temperado até o forrofechamento em vidro temperado até o forro\nA = 10",
+              "texto_original": "50M010\n01\nVAGA PARA\nESTACIONAMENTO\n02\nVAGA PARA\nESTACIONAMENTOP4\nP4P4\nP4P4\nP3\nP3P4 P2\nP4P6 P6 P6 P6\nP1\nP1\nP4P1\nP1P1 P1\nJ2P1\nJ1\nJ1P4\nP5fechamento em vidro temperado até o forrofechamento em vidro temperado até o forrofechamento em vidro temperado até o forrofechamento em vidro temperado até o forrofechamento em vidro temperado até o forro\nA = 10"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "m²ASSESSORES45",
+              "texto_original": "90 m²ASSESSORES45"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "°\n45",
+              "texto_original": "00°\n45"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "°\n45",
+              "texto_original": "00°\n45"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "°01\nVAGA PARA\nESTACIONAMENTO\nMOTOSBICILCETÁRIO\npilar\nexistente\npilar\nexistente\n3",
+              "texto_original": "00°01\nVAGA PARA\nESTACIONAMENTO\nMOTOSBICILCETÁRIO\npilar\nexistente\npilar\nexistente\n3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "05",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "052"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "07",
+              "unidade": null,
+              "material": "A = 9",
+              "texto_original": "07A = 9"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "13",
+              "unidade": null,
+              "material": "m²SALA DE\nDESCANSO\npuffs sofáE006\nDesce\n3",
+              "texto_original": "13 m²SALA DE\nDESCANSO\npuffs sofáE006\nDesce\n3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "70",
+              "unidade": null,
+              "material": "logotipo acm cor\npadrão\n\"Cartão de Todos\"\nacm cor\npadrão\n\"Cartão de Todos\"acm cor\npadrão\n\"Cartão de Todos\"adesivo\nna fachadaadesivo\nna fachadalogotipoacm cor\npadrão\n\"Cartão de Todos\"\nadesivo\nna fachada278",
+              "texto_original": "70\nlogotipo acm cor\npadrão\n\"Cartão de Todos\"\nacm cor\npadrão\n\"Cartão de Todos\"acm cor\npadrão\n\"Cartão de Todos\"adesivo\nna fachadaadesivo\nna fachadalogotipoacm cor\npadrão\n\"Cartão de Todos\"\nadesivo\nna fachada278"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "74",
+              "unidade": null,
+              "material": "m²QUADRO DE ÁREAS:\nÁREA CONSTRUÍDA PAVIMENTO TÉRREO:\n    9",
+              "texto_original": "74 m²QUADRO DE ÁREAS:\nÁREA CONSTRUÍDA PAVIMENTO TÉRREO:\n    9"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "13",
+              "unidade": null,
+              "material": "m² ÁREA CONSTRUÍDA MEZANINO:\n287",
+              "texto_original": "13 m² ÁREA CONSTRUÍDA MEZANINO:\n287"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "87",
+              "unidade": null,
+              "material": "m² ÁREA CONSTRUÍDA TOTAL:* TODAS AS MEDIDAS DEVEM SER CONFERIDAS NO LOCAL\n/32Folha:\nESCALA  1 : 50Planta de Layout -Pavimento Térreo1ESCALA  1 : 50Planta de Layout -Mezanino2\nESCALA  1 : 50Fachada Frontal4ESCALA  1 : 50Fachada Lateral5\n\n--- PÁGINA 3 ---\nA = 5",
+              "texto_original": "87 m² ÁREA CONSTRUÍDA TOTAL:* TODAS AS MEDIDAS DEVEM SER CONFERIDAS NO LOCAL\n/32Folha:\nESCALA  1 : 50Planta de Layout -Pavimento Térreo1ESCALA  1 : 50Planta de Layout -Mezanino2\nESCALA  1 : 50Fachada Frontal4ESCALA  1 : 50Fachada Lateral5\n\n--- PÁGINA 3 ---\nA = 5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "54",
+              "unidade": null,
+              "material": "m²ALMOXARIFADOA = 24",
+              "texto_original": "54 m²ALMOXARIFADOA = 24"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "72",
+              "unidade": null,
+              "material": "m²SALA DE VENDAS IIA = 19",
+              "texto_original": "72 m²SALA DE VENDAS IIA = 19"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "66",
+              "unidade": null,
+              "material": "m²SALA DE VENDAS I\nA = 17",
+              "texto_original": "66 m²SALA DE VENDAS I\nA = 17"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "44",
+              "unidade": null,
+              "material": "m²SALA DE REUNIÕESA = 12",
+              "texto_original": "44 m²SALA DE REUNIÕESA = 12"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "48",
+              "unidade": null,
+              "material": "m²PRÉ-VENDAS\nA = 20",
+              "texto_original": "48 m²PRÉ-VENDAS\nA = 20"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "69",
+              "unidade": null,
+              "material": "m²ADIMPLÊNCIAA = 3",
+              "texto_original": "69 m²ADIMPLÊNCIAA = 3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "35",
+              "unidade": null,
+              "material": "m²SANITÁRIO\nACESSÍVEL\nA = 5",
+              "texto_original": "35 m²SANITÁRIO\nACESSÍVEL\nA = 5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "21",
+              "unidade": null,
+              "material": "m²SANITÁRIO\nFEMININO\nA = 5",
+              "texto_original": "21 m²SANITÁRIO\nFEMININO\nA = 5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "21",
+              "unidade": null,
+              "material": "m²SANITÁRIO\nMASCULINO A = 4",
+              "texto_original": "21 m²SANITÁRIO\nMASCULINO A = 4"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "m²DML\nA = 21",
+              "texto_original": "90 m²DML\nA = 21"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "25",
+              "unidade": null,
+              "material": "m²COPA FUNCIONÁRIOS\nA = 43",
+              "texto_original": "25 m²COPA FUNCIONÁRIOS\nA = 43"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "64",
+              "unidade": null,
+              "material": "m²RECEPÇÃO\nA = 6",
+              "texto_original": "64 m²RECEPÇÃO\nA = 6"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "m²CONCILIAÇÃO\nA = 5",
+              "texto_original": "90 m²CONCILIAÇÃO\nA = 5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "24",
+              "unidade": null,
+              "material": "m²ESPERAA = 8",
+              "texto_original": "24 m²ESPERAA = 8"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "36",
+              "unidade": null,
+              "material": "m²GERÊNCIA\nM010fechamento em vidro temperado até o forroSobe\nACESSO\npilar\nexistenteE0011",
+              "texto_original": "36 m²GERÊNCIA\nM010fechamento em vidro temperado até o forroSobe\nACESSO\npilar\nexistenteE0011"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "800"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "90 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "E001M013\npilar\nexistenteA = 5",
+              "texto_original": "90E001M013\npilar\nexistenteA = 5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "04",
+              "unidade": null,
+              "material": "m²FINANCEIRO\nquadros\ndecorativosE005\nE005 E005 E005 E005\nE005\n2",
+              "texto_original": "04 m²FINANCEIRO\nquadros\ndecorativosE005\nE005 E005 E005 E005\nE005\n2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "4",
+              "texto_original": "50\n4"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "4",
+              "texto_original": "804"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "4",
+              "texto_original": "804"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "80\n2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "M010\n01\nVAGA PARA\nESTACIONAMENTO\n02\nVAGA PARA\nESTACIONAMENTOP4\nP4P4\nP4P4\nP3\nP3P4 P2\nP4P6 P6 P6 P6\nP1\nP1\nP4P1\nP1P1 P1\nJ2P1\nJ1\nJ1P4\nP5fechamento em vidro temperado até o forrofechamento em vidro temperado até o forrofechamento em vidro temperado até o forrofechamento em vidro temperado até o forro\nA = 10",
+              "texto_original": "50M010\n01\nVAGA PARA\nESTACIONAMENTO\n02\nVAGA PARA\nESTACIONAMENTOP4\nP4P4\nP4P4\nP3\nP3P4 P2\nP4P6 P6 P6 P6\nP1\nP1\nP4P1\nP1P1 P1\nJ2P1\nJ1\nJ1P4\nP5fechamento em vidro temperado até o forrofechamento em vidro temperado até o forrofechamento em vidro temperado até o forrofechamento em vidro temperado até o forro\nA = 10"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "m²ASSESSORES3",
+              "texto_original": "90 m²ASSESSORES3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "80 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "10 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "29",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "29 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "13",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "13 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "65",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "65 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "10 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "50 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "13",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "13 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "84",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "84 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "10 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "84",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "84 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "13",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "13 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "76",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "76 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "13",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "13 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "75",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "75 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "13",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "13 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "39",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "39 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "13",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "13 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "95",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "95 3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "39",
+              "unidade": null,
+              "material": "6",
+              "texto_original": "396"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "34",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "34\n0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "91",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "91 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "91",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "91 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "91",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "91 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "91",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "91\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "25",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "25\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "25",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "250"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "10 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "83",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "832"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "83",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "83 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "10 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "201"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "00 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "10 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "00 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "67",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "67 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "39",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "390"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "65",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "650"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "10 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "20 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "10 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "97",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "97 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "10 3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "21",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "21 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "10 3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "21",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "21 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "10 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "76",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "76\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "73",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "73\n0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "13",
+              "unidade": null,
+              "material": "6",
+              "texto_original": "13 6"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "30",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "30 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "13",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "13 3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "23",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "23 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "10 3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "19",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "19 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "13",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "13 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "72",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "72 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "13",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "132"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "20 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "13",
+              "unidade": null,
+              "material": "8",
+              "texto_original": "13 8"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "09",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "09 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "10 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "30",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "30 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "13",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "13 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "73",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "732"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "28",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "28 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "10 3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "00 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "13",
+              "unidade": null,
+              "material": "5",
+              "texto_original": "13 5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "78",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "78 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "13",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "13 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "200"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "10 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "30",
+              "unidade": null,
+              "material": "5",
+              "texto_original": "30\n5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "53",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "53 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "13",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "13 3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "00 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "80 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "10 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "23",
+              "unidade": null,
+              "material": "5",
+              "texto_original": "23\n5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "38",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "38 3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "71",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "71 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "24",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "24 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "6",
+              "texto_original": "20 6"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "12",
+              "unidade": null,
+              "material": "6",
+              "texto_original": "12\n6"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "12",
+              "unidade": null,
+              "material": "5",
+              "texto_original": "125"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "53",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "53\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "97",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "97 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "30",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "30\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "99",
+              "unidade": null,
+              "material": "4",
+              "texto_original": "99 4"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "06",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "060"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "50 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "89",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "89\n2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "90\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "20 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "6",
+              "texto_original": "10 6"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "05",
+              "unidade": null,
+              "material": "fechamento em vidro temperado até o forro\n0",
+              "texto_original": "05fechamento em vidro temperado até o forro\n0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "36",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "36 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "50 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "36",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "36 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "85",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "85 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "28",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "28 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "00 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "20 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "50 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "35",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "352"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "23",
+              "unidade": null,
+              "material": "LEGENDA DO DESENHO\nALVENARIA EXISTENTE -PERMANECE\nALVENARIA EXISTENTE -A DEMOLIR\nALVENARIA -A CONSTRUIR\nDRYWALL 10cm -A CONSTRUIR\nPAINEL DE VIDRO TEMPERADO 10mm -A CONSTRUIR01\nVAGA PARA\nESTACIONAMENTO\nMOTOSBICILCETÁRIO4",
+              "texto_original": "23LEGENDA DO DESENHO\nALVENARIA EXISTENTE -PERMANECE\nALVENARIA EXISTENTE -A DEMOLIR\nALVENARIA -A CONSTRUIR\nDRYWALL 10cm -A CONSTRUIR\nPAINEL DE VIDRO TEMPERADO 10mm -A CONSTRUIR01\nVAGA PARA\nESTACIONAMENTO\nMOTOSBICILCETÁRIO4"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "30",
+              "unidade": null,
+              "material": "5",
+              "texto_original": "305"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "18",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "18 0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "21",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "21\n0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "ESPECIFICAÇÃO DE MATERIAIS DE ACABAMENTO:\nParedes Internas: tinta na cor Papel Couché da SuvinilPINTURA\n(tinta acrílica",
+              "texto_original": "20ESPECIFICAÇÃO DE MATERIAIS DE ACABAMENTO:\nParedes Internas: tinta na cor Papel Couché da SuvinilPINTURA\n(tinta acrílica"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "cm até o forroPAREDES\nREVESTIMENTOS DE PAREDES/DRYWALL\nParedes revestidas com cerâmica branca 32",
+              "texto_original": "10 cm até o forroPAREDES\nREVESTIMENTOS DE PAREDES/DRYWALL\nParedes revestidas com cerâmica branca 32"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "5",
+              "unidade": null,
+              "material": "x59 cmCOPA/SANITÁRIOS/DML\nda Eliane ou similar com altura mínima de 1",
+              "texto_original": "5x59 cmCOPA/SANITÁRIOS/DML\nda Eliane ou similar com altura mínima de 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "60",
+              "unidade": null,
+              "material": "m\nPISOS\nPorcelanato acetinado retificado 60x60 cm na cor\noff-white da Eliane ou similar\nFORRO\npintura branco neve da Suvinil\nTABELA DE PORTAS (dimensões em cm):\nP1NOME:PORTAS\nLARGURA: ALTURA: TIPO: ACABAMENTO: QUANTIDADE:\n90 210\nmetalon -giro -1 folha07\nP2 90 210\nmadeira -giro -1 folhaesmalte branco 01\nP3 90 210vidro temperado -giro -1 folha\nesmalte branco 02\nP4 80 210 09\nP5 80 210madeira -giro -1 folha\nesmalte branco\n01\nP6 60 180 esmalte branco 04translúcido\nmadeira com barra -giro -1 folha\nmadeira -giro -1 folha\nesmalte sintético* TODAS AS MEDIDAS DEVEM SER CONFERIDAS NO LOCAL\n/32Folha:\nESCALA  1 : 50Planta Construtiva -Pavimento Térreo1",
+              "texto_original": "60 m\nPISOS\nPorcelanato acetinado retificado 60x60 cm na cor\noff-white da Eliane ou similar\nFORRO\npintura branco neve da Suvinil\nTABELA DE PORTAS (dimensões em cm):\nP1NOME:PORTAS\nLARGURA: ALTURA: TIPO: ACABAMENTO: QUANTIDADE:\n90 210\nmetalon -giro -1 folha07\nP2 90 210\nmadeira -giro -1 folhaesmalte branco 01\nP3 90 210vidro temperado -giro -1 folha\nesmalte branco 02\nP4 80 210 09\nP5 80 210madeira -giro -1 folha\nesmalte branco\n01\nP6 60 180 esmalte branco 04translúcido\nmadeira com barra -giro -1 folha\nmadeira -giro -1 folha\nesmalte sintético* TODAS AS MEDIDAS DEVEM SER CONFERIDAS NO LOCAL\n/32Folha:\nESCALA  1 : 50Planta Construtiva -Pavimento Térreo1"
+            }
+          ]
+        },
+        "areas": {
+          "quantidade": 36,
+          "materiais": [
+            {
+              "estrutura": "areas",
+              "area_m2": "5,54",
+              "texto_original": "A = 5,54 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "24,72",
+              "texto_original": "A = 24,72 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "19,66",
+              "texto_original": "A = 19,66 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "17,44",
+              "texto_original": "A = 17,44 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "12,48",
+              "texto_original": "A = 12,48 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "20,69",
+              "texto_original": "A = 20,69 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "3,35",
+              "texto_original": "A = 3,35 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "5,21",
+              "texto_original": "A = 5,21 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "5,21",
+              "texto_original": "A = 5,21 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "4,90",
+              "texto_original": "A = 4,90 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "21,25",
+              "texto_original": "A = 21,25 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "43,64",
+              "texto_original": "A = 43,64 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "6,90",
+              "texto_original": "A = 6,90 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "5,24",
+              "texto_original": "A = 5,24 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "8,36",
+              "texto_original": "A = 8,36 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "5,04",
+              "texto_original": "A = 5,04 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "10,90",
+              "texto_original": "A = 10,90 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "9,13",
+              "texto_original": "A = 9,13 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "278,74",
+              "texto_original": "a278,74 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "5,54",
+              "texto_original": "A = 5,54 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "24,72",
+              "texto_original": "A = 24,72 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "19,66",
+              "texto_original": "A = 19,66 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "17,44",
+              "texto_original": "A = 17,44 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "12,48",
+              "texto_original": "A = 12,48 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "20,69",
+              "texto_original": "A = 20,69 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "3,35",
+              "texto_original": "A = 3,35 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "5,21",
+              "texto_original": "A = 5,21 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "5,21",
+              "texto_original": "A = 5,21 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "4,90",
+              "texto_original": "A = 4,90 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "21,25",
+              "texto_original": "A = 21,25 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "43,64",
+              "texto_original": "A = 43,64 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "6,90",
+              "texto_original": "A = 6,90 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "5,24",
+              "texto_original": "A = 5,24 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "8,36",
+              "texto_original": "A = 8,36 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "5,04",
+              "texto_original": "A = 5,04 m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "10,90",
+              "texto_original": "A = 10,90 m²"
+            }
+          ]
+        },
+        "mobiliario_completo": {
+          "quantidade": 7,
+          "materiais": [
+            {
+              "estrutura": "mobiliario_completo",
+              "codigo": "M002",
+              "tipo": "mesa",
+              "dimensao1": "135",
+              "dimensao2": "60",
+              "texto_original": "M002 -mesa atendimento recepção MDF (135x60"
+            },
+            {
+              "estrutura": "mobiliario_completo",
+              "codigo": "M003",
+              "tipo": "mesa",
+              "dimensao1": "80",
+              "dimensao2": "60",
+              "texto_original": "M003 -mesa tipo baia MDF (80x60"
+            },
+            {
+              "estrutura": "mobiliario_completo",
+              "codigo": "M005",
+              "tipo": "mesa",
+              "dimensao1": "300",
+              "dimensao2": "80",
+              "texto_original": "M005 -mesa copa MDF 300X80"
+            },
+            {
+              "estrutura": "mobiliario_completo",
+              "codigo": "M006",
+              "tipo": "mesa",
+              "dimensao1": "90",
+              "dimensao2": "007",
+              "texto_original": "M006 -mesa redonda ø 90 cm\nM007"
+            },
+            {
+              "estrutura": "mobiliario_completo",
+              "codigo": "M001",
+              "tipo": "mesa",
+              "dimensao1": "120",
+              "dimensao2": "60",
+              "texto_original": "M001 -mesa atendimento MDF (120x60"
+            },
+            {
+              "estrutura": "mobiliario_completo",
+              "codigo": "M008",
+              "tipo": "armário",
+              "dimensao1": "009",
+              "dimensao2": "110",
+              "texto_original": "M008 -armários em MDF para arquivoM009 -armário em MDF prod. limpeza (110"
+            },
+            {
+              "estrutura": "mobiliario_completo",
+              "codigo": "M014",
+              "tipo": "mesa",
+              "dimensao1": "500",
+              "dimensao2": "100",
+              "texto_original": "M014 -mesa de reuniões mdf (500x100"
+            }
+          ]
+        }
+      },
+      "secoes_identificadas": [
+        {
+          "linha": 17,
+          "secao": "mobiliário",
+          "texto": "E007 -forno microondasLEGENDA DE MOBILIÁRIO E EQUIPAMENTOS:"
+        },
+        {
+          "linha": 18,
+          "secao": "mobiliário",
+          "texto": "MOBILIÁRIO"
+        },
+        {
+          "linha": 146,
+          "secao": "medidas",
+          "texto": "287,87 m² ÁREA CONSTRUÍDA TOTAL:* TODAS AS MEDIDAS DEVEM SER CONFERIDAS NO LOCAL"
+        },
+        {
+          "linha": 218,
+          "secao": "especificação",
+          "texto": "0,20ESPECIFICAÇÃO DE MATERIAIS DE ACABAMENTO:"
+        },
+        {
+          "linha": 229,
+          "secao": "dimensões",
+          "texto": "TABELA DE PORTAS (dimensões em cm):"
+        },
+        {
+          "linha": 245,
+          "secao": "medidas",
+          "texto": "esmalte sintético* TODAS AS MEDIDAS DEVEM SER CONFERIDAS NO LOCAL"
+        }
+      ],
+      "materiais_secoes": {
+        "mobiliário": {
+          "range": "16-34",
+          "resultados": {
+            "codigo_descricao": {
+              "quantidade": 8,
+              "materiais": [
+                {
+                  "estrutura": "codigo_descricao",
+                  "codigo": "M010",
+                  "descricao": "b",
+                  "dimensoes": null,
+                  "texto_original": "M010 -b"
+                },
+                {
+                  "estrutura": "codigo_descricao",
+                  "codigo": "M011",
+                  "descricao": "a",
+                  "dimensoes": null,
+                  "texto_original": "M011 -a"
+                },
+                {
+                  "estrutura": "codigo_descricao",
+                  "codigo": "M012",
+                  "descricao": "a",
+                  "dimensoes": null,
+                  "texto_original": "M012 -a"
+                },
+                {
+                  "estrutura": "codigo_descricao",
+                  "codigo": "M013",
+                  "descricao": "b",
+                  "dimensoes": null,
+                  "texto_original": "M013 -b"
+                },
+                {
+                  "estrutura": "codigo_descricao",
+                  "codigo": "M014",
+                  "descricao": "m",
+                  "dimensoes": null,
+                  "texto_original": "M014 -m"
+                },
+                {
+                  "estrutura": "codigo_descricao",
+                  "codigo": "M015",
+                  "descricao": "b",
+                  "dimensoes": null,
+                  "texto_original": "M015 -b"
+                },
+                {
+                  "estrutura": "codigo_descricao",
+                  "codigo": "M007",
+                  "descricao": "A",
+                  "dimensoes": null,
+                  "texto_original": "M007A"
+                },
+                {
+                  "estrutura": "codigo_descricao",
+                  "codigo": "M002",
+                  "descricao": "A",
+                  "dimensoes": null,
+                  "texto_original": "M002\nA "
+                }
+              ]
+            },
+            "item_medidas": {
+              "quantidade": 6,
+              "materiais": [
+                {
+                  "estrutura": "item_medidas",
+                  "descricao": "M010 -bancada em granito (",
+                  "largura": "200",
+                  "altura": "60",
+                  "profundidade": "90",
+                  "texto_original": "M010 -bancada em granito (200x60/90 cm"
+                },
+                {
+                  "estrutura": "item_medidas",
+                  "descricao": ")\nE007 -forno microondasLEGENDA DE MOBILIÁRIO E EQUIPAMENTOS:\nMOBILIÁRIO\nEQUIPAMENTOSM011 -amário aéreo em mdf (800x",
+                  "largura": "35",
+                  "altura": "50",
+                  "profundidade": null,
+                  "texto_original": ")\nE007 -forno microondasLEGENDA DE MOBILIÁRIO E EQUIPAMENTOS:\nMOBILIÁRIO\nEQUIPAMENTOSM011 -amário aéreo em mdf (800x35x50 cm"
+                },
+                {
+                  "estrutura": "item_medidas",
+                  "descricao": ")\nM012 -aparador mdf (",
+                  "largura": "80",
+                  "altura": "40",
+                  "profundidade": "75",
+                  "texto_original": ")\nM012 -aparador mdf (80x40/75 cm"
+                },
+                {
+                  "estrutura": "item_medidas",
+                  "descricao": ") para cafeteira\nM013 -bancada em granito (",
+                  "largura": "290",
+                  "altura": "50",
+                  "profundidade": "90",
+                  "texto_original": ") para cafeteira\nM013 -bancada em granito (290x50/90 cm"
+                },
+                {
+                  "estrutura": "item_medidas",
+                  "descricao": ")\nM014 -mesa de reuniões mdf (",
+                  "largura": "500",
+                  "altura": "100",
+                  "profundidade": "75",
+                  "texto_original": ")\nM014 -mesa de reuniões mdf (500x100/75 cm"
+                },
+                {
+                  "estrutura": "item_medidas",
+                  "descricao": ")\nM015 -balcão mdf (",
+                  "largura": "240",
+                  "altura": "40",
+                  "profundidade": "110",
+                  "texto_original": ")\nM015 -balcão mdf (240x40/110 cm"
+                }
+              ]
+            },
+            "quantidade_material": {
+              "quantidade": 21,
+              "materiais": [
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "010",
+                  "unidade": null,
+                  "material": "bancada em granito (200x60/90 cm)\nE007 -forno microondasLEGENDA DE MOBILIÁRIO E EQUIPAMENTOS:\nMOBILIÁRIO\nEQUIPAMENTOSM011 -amário aéreo em mdf (800x35x50 cm)\nM012 -aparador mdf (80x40/75 cm) para cafeteira\nM013 -bancada em granito (290x50/90 cm)\nM014 -mesa de reuniões mdf (500x100/75 cm)\nM015 -balcão mdf (240x40/110 cm)\nE003 M007ATENDIMENTO\n1",
+                  "texto_original": "010 -bancada em granito (200x60/90 cm)\nE007 -forno microondasLEGENDA DE MOBILIÁRIO E EQUIPAMENTOS:\nMOBILIÁRIO\nEQUIPAMENTOSM011 -amário aéreo em mdf (800x35x50 cm)\nM012 -aparador mdf (80x40/75 cm) para cafeteira\nM013 -bancada em granito (290x50/90 cm)\nM014 -mesa de reuniões mdf (500x100/75 cm)\nM015 -balcão mdf (240x40/110 cm)\nE003 M007ATENDIMENTO\n1"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "00",
+                  "unidade": null,
+                  "material": "1",
+                  "texto_original": "00 1"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "00",
+                  "unidade": null,
+                  "material": "M002\nA = 5",
+                  "texto_original": "00M002\nA = 5"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "54",
+                  "unidade": null,
+                  "material": "m²ALMOXARIFADO1",
+                  "texto_original": "54 m²ALMOXARIFADO1"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "00",
+                  "unidade": null,
+                  "material": "1",
+                  "texto_original": "00 1"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "00",
+                  "unidade": null,
+                  "material": "1",
+                  "texto_original": "00 1"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "00",
+                  "unidade": null,
+                  "material": "5",
+                  "texto_original": "005"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "00",
+                  "unidade": null,
+                  "material": "0",
+                  "texto_original": "00 0"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "81",
+                  "unidade": null,
+                  "material": "A = 24",
+                  "texto_original": "81A = 24"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "72",
+                  "unidade": null,
+                  "material": "m²SALA DE VENDAS IIA = 19",
+                  "texto_original": "72 m²SALA DE VENDAS IIA = 19"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "66",
+                  "unidade": null,
+                  "material": "m²SALA DE VENDAS I\n1",
+                  "texto_original": "66 m²SALA DE VENDAS I\n1"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "00",
+                  "unidade": null,
+                  "material": "1",
+                  "texto_original": "00 1"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "22",
+                  "unidade": null,
+                  "material": "1",
+                  "texto_original": "22 1"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "00",
+                  "unidade": null,
+                  "material": "A = 17",
+                  "texto_original": "00\nA = 17"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "44",
+                  "unidade": null,
+                  "material": "m²SALA DE REUNIÕESA = 12",
+                  "texto_original": "44 m²SALA DE REUNIÕESA = 12"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "48",
+                  "unidade": null,
+                  "material": "m²PRÉ-VENDASA = 20",
+                  "texto_original": "48 m²PRÉ-VENDASA = 20"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "69",
+                  "unidade": null,
+                  "material": "m²ADIMPLÊNCIAA = 3",
+                  "texto_original": "69 m²ADIMPLÊNCIAA = 3"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "35",
+                  "unidade": null,
+                  "material": "m²SANITÁRIO\nACESSÍVEL\nA = 5",
+                  "texto_original": "35 m²SANITÁRIO\nACESSÍVEL\nA = 5"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "21",
+                  "unidade": null,
+                  "material": "m²SANITÁRIO\nFEMININO\nA = 5",
+                  "texto_original": "21 m²SANITÁRIO\nFEMININO\nA = 5"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "21",
+                  "unidade": null,
+                  "material": "m²SANITÁRIO\nMASCULINO A = 4",
+                  "texto_original": "21 m²SANITÁRIO\nMASCULINO A = 4"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "90",
+                  "unidade": null,
+                  "material": "m²DML",
+                  "texto_original": "90 m²DML"
+                }
+              ]
+            },
+            "areas": {
+              "quantidade": 10,
+              "materiais": [
+                {
+                  "estrutura": "areas",
+                  "area_m2": "5,54",
+                  "texto_original": "A = 5,54 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "24,72",
+                  "texto_original": "A = 24,72 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "19,66",
+                  "texto_original": "A = 19,66 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "17,44",
+                  "texto_original": "A = 17,44 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "12,48",
+                  "texto_original": "A = 12,48 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "20,69",
+                  "texto_original": "A = 20,69 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "3,35",
+                  "texto_original": "A = 3,35 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "5,21",
+                  "texto_original": "A = 5,21 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "5,21",
+                  "texto_original": "A = 5,21 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "4,90",
+                  "texto_original": "A = 4,90 m²"
+                }
+              ]
+            },
+            "mobiliario_completo": {
+              "quantidade": 1,
+              "materiais": [
+                {
+                  "estrutura": "mobiliario_completo",
+                  "codigo": "M014",
+                  "tipo": "mesa",
+                  "dimensao1": "500",
+                  "dimensao2": "100",
+                  "texto_original": "M014 -mesa de reuniões mdf (500x100"
+                }
+              ]
+            }
+          }
+        },
+        "medidas": {
+          "range": "144-162",
+          "resultados": {
+            "quantidade_material": {
+              "quantidade": 14,
+              "materiais": [
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "13",
+                  "unidade": null,
+                  "material": "m² ÁREA CONSTRUÍDA MEZANINO:\n287",
+                  "texto_original": "13 m² ÁREA CONSTRUÍDA MEZANINO:\n287"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "87",
+                  "unidade": null,
+                  "material": "m² ÁREA CONSTRUÍDA TOTAL:* TODAS AS MEDIDAS DEVEM SER CONFERIDAS NO LOCAL\n/32Folha:\nESCALA  1 : 50Planta de Layout -Pavimento Térreo1ESCALA  1 : 50Planta de Layout -Mezanino2\nESCALA  1 : 50Fachada Frontal4ESCALA  1 : 50Fachada Lateral5\n\n--- PÁGINA 3 ---\nA = 5",
+                  "texto_original": "87 m² ÁREA CONSTRUÍDA TOTAL:* TODAS AS MEDIDAS DEVEM SER CONFERIDAS NO LOCAL\n/32Folha:\nESCALA  1 : 50Planta de Layout -Pavimento Térreo1ESCALA  1 : 50Planta de Layout -Mezanino2\nESCALA  1 : 50Fachada Frontal4ESCALA  1 : 50Fachada Lateral5\n\n--- PÁGINA 3 ---\nA = 5"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "54",
+                  "unidade": null,
+                  "material": "m²ALMOXARIFADOA = 24",
+                  "texto_original": "54 m²ALMOXARIFADOA = 24"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "72",
+                  "unidade": null,
+                  "material": "m²SALA DE VENDAS IIA = 19",
+                  "texto_original": "72 m²SALA DE VENDAS IIA = 19"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "66",
+                  "unidade": null,
+                  "material": "m²SALA DE VENDAS I\nA = 17",
+                  "texto_original": "66 m²SALA DE VENDAS I\nA = 17"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "44",
+                  "unidade": null,
+                  "material": "m²SALA DE REUNIÕESA = 12",
+                  "texto_original": "44 m²SALA DE REUNIÕESA = 12"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "48",
+                  "unidade": null,
+                  "material": "m²PRÉ-VENDAS\nA = 20",
+                  "texto_original": "48 m²PRÉ-VENDAS\nA = 20"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "69",
+                  "unidade": null,
+                  "material": "m²ADIMPLÊNCIAA = 3",
+                  "texto_original": "69 m²ADIMPLÊNCIAA = 3"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "35",
+                  "unidade": null,
+                  "material": "m²SANITÁRIO\nACESSÍVEL\nA = 5",
+                  "texto_original": "35 m²SANITÁRIO\nACESSÍVEL\nA = 5"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "21",
+                  "unidade": null,
+                  "material": "m²SANITÁRIO\nFEMININO\nA = 5",
+                  "texto_original": "21 m²SANITÁRIO\nFEMININO\nA = 5"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "21",
+                  "unidade": null,
+                  "material": "m²SANITÁRIO\nMASCULINO A = 4",
+                  "texto_original": "21 m²SANITÁRIO\nMASCULINO A = 4"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "90",
+                  "unidade": null,
+                  "material": "m²DML\nA = 21",
+                  "texto_original": "90 m²DML\nA = 21"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "25",
+                  "unidade": null,
+                  "material": "m²COPA FUNCIONÁRIOS\nA = 43",
+                  "texto_original": "25 m²COPA FUNCIONÁRIOS\nA = 43"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "64",
+                  "unidade": null,
+                  "material": "m²RECEPÇÃO",
+                  "texto_original": "64 m²RECEPÇÃO"
+                }
+              ]
+            },
+            "areas": {
+              "quantidade": 12,
+              "materiais": [
+                {
+                  "estrutura": "areas",
+                  "area_m2": "5,54",
+                  "texto_original": "A = 5,54 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "24,72",
+                  "texto_original": "A = 24,72 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "19,66",
+                  "texto_original": "A = 19,66 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "17,44",
+                  "texto_original": "A = 17,44 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "12,48",
+                  "texto_original": "A = 12,48 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "20,69",
+                  "texto_original": "A = 20,69 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "3,35",
+                  "texto_original": "A = 3,35 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "5,21",
+                  "texto_original": "A = 5,21 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "5,21",
+                  "texto_original": "A = 5,21 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "4,90",
+                  "texto_original": "A = 4,90 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "21,25",
+                  "texto_original": "A = 21,25 m²"
+                },
+                {
+                  "estrutura": "areas",
+                  "area_m2": "43,64",
+                  "texto_original": "A = 43,64 m²"
+                }
+              ]
+            }
+          }
+        },
+        "especificação": {
+          "range": "216-234",
+          "resultados": {
+            "item_medidas": {
+              "quantidade": 2,
+              "materiais": [
+                {
+                  "estrutura": "item_medidas",
+                  "descricao": " sem cheiro e lavável)Paredes Internas/divisórias em drywall 10 cm até o forroPAREDES\nREVESTIMENTOS DE PAREDES/DRYWALL\nParedes revestidas com cerâmica branca 32",
+                  "largura": "5",
+                  "altura": "59",
+                  "profundidade": null,
+                  "texto_original": " sem cheiro e lavável)Paredes Internas/divisórias em drywall 10 cm até o forroPAREDES\nREVESTIMENTOS DE PAREDES/DRYWALL\nParedes revestidas com cerâmica branca 32,5x59 cm"
+                },
+                {
+                  "estrutura": "item_medidas",
+                  "descricao": "60 m\nPISOS\nPorcelanato acetinado retificado",
+                  "largura": "60",
+                  "altura": "60",
+                  "profundidade": null,
+                  "texto_original": "60 m\nPISOS\nPorcelanato acetinado retificado 60x60 cm"
+                }
+              ]
+            },
+            "quantidade_material": {
+              "quantidade": 7,
+              "materiais": [
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "30",
+                  "unidade": null,
+                  "material": "5",
+                  "texto_original": "305"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "18",
+                  "unidade": null,
+                  "material": "0",
+                  "texto_original": "18 0"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "21",
+                  "unidade": null,
+                  "material": "0",
+                  "texto_original": "21\n0"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "20",
+                  "unidade": null,
+                  "material": "ESPECIFICAÇÃO DE MATERIAIS DE ACABAMENTO:\nParedes Internas: tinta na cor Papel Couché da SuvinilPINTURA\n(tinta acrílica",
+                  "texto_original": "20ESPECIFICAÇÃO DE MATERIAIS DE ACABAMENTO:\nParedes Internas: tinta na cor Papel Couché da SuvinilPINTURA\n(tinta acrílica"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "10",
+                  "unidade": null,
+                  "material": "cm até o forroPAREDES\nREVESTIMENTOS DE PAREDES/DRYWALL\nParedes revestidas com cerâmica branca 32",
+                  "texto_original": "10 cm até o forroPAREDES\nREVESTIMENTOS DE PAREDES/DRYWALL\nParedes revestidas com cerâmica branca 32"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "5",
+                  "unidade": null,
+                  "material": "x59 cmCOPA/SANITÁRIOS/DML\nda Eliane ou similar com altura mínima de 1",
+                  "texto_original": "5x59 cmCOPA/SANITÁRIOS/DML\nda Eliane ou similar com altura mínima de 1"
+                },
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "60",
+                  "unidade": null,
+                  "material": "m\nPISOS\nPorcelanato acetinado retificado 60x60 cm na cor\noff-white da Eliane ou similar\nFORRO\npintura branco neve da Suvinil\nTABELA DE PORTAS (dimensões em cm):\nP1NOME:PORTAS\nLARGURA: ALTURA: TIPO: ACABAMENTO: QUANTIDADE:\n90 210\nmetalon -giro -1 folha07",
+                  "texto_original": "60 m\nPISOS\nPorcelanato acetinado retificado 60x60 cm na cor\noff-white da Eliane ou similar\nFORRO\npintura branco neve da Suvinil\nTABELA DE PORTAS (dimensões em cm):\nP1NOME:PORTAS\nLARGURA: ALTURA: TIPO: ACABAMENTO: QUANTIDADE:\n90 210\nmetalon -giro -1 folha07"
+                }
+              ]
+            }
+          }
+        },
+        "dimensões": {
+          "range": "227-245",
+          "resultados": {
+            "quantidade_material": {
+              "quantidade": 1,
+              "materiais": [
+                {
+                  "estrutura": "quantidade_material",
+                  "quantidade": "1",
+                  "unidade": null,
+                  "material": "NOME:PORTAS\nLARGURA: ALTURA: TIPO: ACABAMENTO: QUANTIDADE:\n90 210\nmetalon -giro -1 folha07\nP2 90 210\nmadeira -giro -1 folhaesmalte branco 01\nP3 90 210vidro temperado -giro -1 folha\nesmalte branco 02\nP4 80 210 09\nP5 80 210madeira -giro -1 folha\nesmalte branco\n01\nP6 60 180 esmalte branco 04translúcido\nmadeira com barra -giro -1 folha\nmadeira -giro -1 folha",
+                  "texto_original": "1NOME:PORTAS\nLARGURA: ALTURA: TIPO: ACABAMENTO: QUANTIDADE:\n90 210\nmetalon -giro -1 folha07\nP2 90 210\nmadeira -giro -1 folhaesmalte branco 01\nP3 90 210vidro temperado -giro -1 folha\nesmalte branco 02\nP4 80 210 09\nP5 80 210madeira -giro -1 folha\nesmalte branco\n01\nP6 60 180 esmalte branco 04translúcido\nmadeira com barra -giro -1 folha\nmadeira -giro -1 folha"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "PROJETO AS CANOAS aprovado Bianca 21.07.2022.pdf": {
+    "status": "sucesso",
+    "arquivo": "PROJETO AS CANOAS aprovado Bianca 21.07.2022.pdf",
+    "estatisticas_texto": {
+      "linhas": 72,
+      "palavras": 194,
+      "caracteres": 1620
+    },
+    "secoes_identificadas": 0,
+    "resultados": {
+      "parser_geral": {
+        "quantidade_material": {
+          "quantidade": 128,
+          "materiais": [
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "1",
+              "unidade": null,
+              "material": "--\nRecepção MédicaRecepção OdontologiaConsultório Odonto 1\nConsultório Odonto 32",
+              "texto_original": "1 ---\nRecepção MédicaRecepção OdontologiaConsultório Odonto 1\nConsultório Odonto 32"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "55",
+              "unidade": null,
+              "material": "Consultório Odonto 2\nConsultório Odonto 4Consultório Odonto 5\nTotem\n Odontologia MédicaUltrassomWC ultr",
+              "texto_original": "55Consultório Odonto 2\nConsultório Odonto 4Consultório Odonto 5\nTotem\n Odontologia MédicaUltrassomWC ultr"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "17",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "17\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "27",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "27 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "20\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "60",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "60 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "40",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "40 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "201"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "95",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "95 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "78",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "78\n2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "90 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "45",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "451"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "83",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "833"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "83",
+              "unidade": null,
+              "material": "Pós Consulta MédicaEspera MédicaConsult",
+              "texto_original": "83\nPós Consulta MédicaEspera MédicaConsult"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "31",
+              "unidade": null,
+              "material": "4",
+              "texto_original": "31 4"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "63",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "63\n3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "57",
+              "unidade": null,
+              "material": "10",
+              "texto_original": "57\n10"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "CompressoresLixeiraWC func",
+              "texto_original": "90CompressoresLixeiraWC func"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "90 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "5",
+              "texto_original": "505"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "07",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "07 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "67",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "67 3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "60",
+              "unidade": null,
+              "material": "4",
+              "texto_original": "60 4"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "41",
+              "unidade": null,
+              "material": "Café/Água2",
+              "texto_original": "41Café/Água2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "40",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "40\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "9",
+              "texto_original": "209"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "20\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "20\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "002"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "00\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "502"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "003"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "10 3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "102"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "90\n3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "53",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "532"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "55",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "552"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "45",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "45\n3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "10 3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "10 3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "81",
+              "unidade": null,
+              "material": "6",
+              "texto_original": "81 6"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "98",
+              "unidade": null,
+              "material": "Triagem 01Café/ÁguaConsult",
+              "texto_original": "98Triagem 01Café/ÁguaConsult"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "102"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "73",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "732"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "4",
+              "texto_original": "80\n4"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "15",
+              "unidade": null,
+              "material": "Café/ÁguaWC PCD MASC",
+              "texto_original": "15\nCafé/ÁguaWC PCD MASC"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "901"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "6",
+              "texto_original": "206"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "18",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "18\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "40",
+              "unidade": null,
+              "material": "A= 3",
+              "texto_original": "40\nA= 3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "23",
+              "unidade": null,
+              "material": "m² A= 3",
+              "texto_original": "23m² A= 3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "23",
+              "unidade": null,
+              "material": "m²A= 10",
+              "texto_original": "23m²A= 10"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "60",
+              "unidade": null,
+              "material": "m²A= 9",
+              "texto_original": "60m²A= 9"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "01",
+              "unidade": null,
+              "material": "m²\nA= 9",
+              "texto_original": "01m²\nA= 9"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "m²A= 9",
+              "texto_original": "00m²A= 9"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "m²A= 9",
+              "texto_original": "00m²A= 9"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "01",
+              "unidade": null,
+              "material": "m²A= 9",
+              "texto_original": "01m²A= 9"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "m²A= 9",
+              "texto_original": "00m²A= 9"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "m²\nA= 9",
+              "texto_original": "00m²\nA= 9"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "38",
+              "unidade": null,
+              "material": "m²A= 11",
+              "texto_original": "38m²A= 11"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "m²A= 9",
+              "texto_original": "10m²A= 9"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "19",
+              "unidade": null,
+              "material": "m²\nA= 9",
+              "texto_original": "19m²\nA= 9"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "95",
+              "unidade": null,
+              "material": "m²A= 12",
+              "texto_original": "95m²A= 12"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "53",
+              "unidade": null,
+              "material": "m²A= 7",
+              "texto_original": "53m²A= 7"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "65",
+              "unidade": null,
+              "material": "m²A= 6",
+              "texto_original": "65m²A= 6"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "22",
+              "unidade": null,
+              "material": "m²A= 16",
+              "texto_original": "22m²A= 16"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "76",
+              "unidade": null,
+              "material": "m²\nA= 1",
+              "texto_original": "76m²\nA= 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "86",
+              "unidade": null,
+              "material": "m² A= 2",
+              "texto_original": "86m² A= 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "02",
+              "unidade": null,
+              "material": "m² A= 1",
+              "texto_original": "02m² A= 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "91",
+              "unidade": null,
+              "material": "m²\nA= 3",
+              "texto_original": "91m²\nA= 3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "m²A= 2",
+              "texto_original": "00m²A= 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "m²\nA= 6",
+              "texto_original": "00m²\nA= 6"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "12",
+              "unidade": null,
+              "material": "m²2",
+              "texto_original": "12m²2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "60",
+              "unidade": null,
+              "material": "A= 2",
+              "texto_original": "60\nA= 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "13",
+              "unidade": null,
+              "material": "m² A= 2",
+              "texto_original": "13m² A= 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "34",
+              "unidade": null,
+              "material": "m²\nPós Cons",
+              "texto_original": "34m²\nPós Cons"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "84",
+              "unidade": null,
+              "material": "m² A= 4",
+              "texto_original": "84m² A= 4"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "84",
+              "unidade": null,
+              "material": "m²\n Espera Odontologia2",
+              "texto_original": "84m²\n Espera Odontologia2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "82",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "821"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "72",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "721"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "40",
+              "unidade": null,
+              "material": "Consultório Odonto 6\nRAIO-X\nA= 5",
+              "texto_original": "40Consultório Odonto 6\nRAIO-X\nA= 5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "41",
+              "unidade": null,
+              "material": "m²Almoxarif",
+              "texto_original": "41m²Almoxarif"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "86",
+              "unidade": null,
+              "material": "m²\nEsterilizaçãoA= 4",
+              "texto_original": "86m²\nEsterilizaçãoA= 4"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "77",
+              "unidade": null,
+              "material": "m²Expurgo\nA= 4",
+              "texto_original": "77m²Expurgo\nA= 4"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "77",
+              "unidade": null,
+              "material": "m²\nCafé/Água\n1",
+              "texto_original": "77m²\nCafé/Água\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "35",
+              "unidade": null,
+              "material": "Triagem 02BOX 1BOX 2Coleta\nA= 13",
+              "texto_original": "35Triagem 02BOX 1BOX 2Coleta\nA= 13"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "49",
+              "unidade": null,
+              "material": "m²Guarda volumesSala Reuniões\nA= 6",
+              "texto_original": "49m²Guarda volumesSala Reuniões\nA= 6"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "81",
+              "unidade": null,
+              "material": "m²\nCall Center\nA= 12",
+              "texto_original": "81m²\nCall Center\nA= 12"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "68",
+              "unidade": null,
+              "material": "m²A= 6",
+              "texto_original": "68m²A= 6"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "17",
+              "unidade": null,
+              "material": "m²A= 6",
+              "texto_original": "17m²A= 6"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "01",
+              "unidade": null,
+              "material": "m²\nA= 7",
+              "texto_original": "01m²\nA= 7"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "74",
+              "unidade": null,
+              "material": "m²Sala Exames\n(Eletro",
+              "texto_original": "74m²Sala Exames\n(Eletro"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": "A= 3",
+              "texto_original": "10A= 3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "36",
+              "unidade": null,
+              "material": "m²\nA= 2",
+              "texto_original": "36m²\nA= 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "88",
+              "unidade": null,
+              "material": "m²2",
+              "texto_original": "88m²2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "11",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "112"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "95",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "95 2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "80\n3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "00\n2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "48",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "482"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "30",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "30 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "22",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "222"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "70",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "701"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "70",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "70\n3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "17",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "171"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "3",
+              "texto_original": "90\n3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "23",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "23\n2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "40",
+              "unidade": null,
+              "material": "6",
+              "texto_original": "406"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "11",
+              "unidade": null,
+              "material": "5",
+              "texto_original": "115"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "54",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "54 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "201"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "92",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "92\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "50\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "202"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "00 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "202"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "70",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "701"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "20\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "20\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "72",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "721"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "35",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "35 1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "35",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "351"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "43",
+              "unidade": null,
+              "material": "Arquivo Morto\nDML\nAlmoxarif",
+              "texto_original": "43Arquivo Morto\nDML\nAlmoxarif"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "m²Financeiro\nA= 5",
+              "texto_original": "50m²Financeiro\nA= 5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "53",
+              "unidade": null,
+              "material": "m²Gerência\n1",
+              "texto_original": "53m²Gerência\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "85",
+              "unidade": null,
+              "material": "2",
+              "texto_original": "852"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "55",
+              "unidade": null,
+              "material": "1",
+              "texto_original": "55\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "20",
+              "unidade": null,
+              "material": "ALVENARIAALVENARIA",
+              "texto_original": "20ALVENARIAALVENARIA"
+            }
+          ]
+        },
+        "areas": {
+          "quantidade": 41,
+          "materiais": [
+            {
+              "estrutura": "areas",
+              "area_m2": "3,23",
+              "texto_original": "A= 3,23m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "3,23",
+              "texto_original": "A= 3,23m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "10,60",
+              "texto_original": "A= 10,60m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "9,01",
+              "texto_original": "A= 9,01m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "9,00",
+              "texto_original": "A= 9,00m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "9,00",
+              "texto_original": "A= 9,00m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "9,01",
+              "texto_original": "A= 9,01m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "9,00",
+              "texto_original": "A= 9,00m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "9,00",
+              "texto_original": "A= 9,00m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "9,38",
+              "texto_original": "A= 9,38m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "11,10",
+              "texto_original": "A= 11,10m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "9,19",
+              "texto_original": "A= 9,19m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "9,95",
+              "texto_original": "A= 9,95m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "12,53",
+              "texto_original": "A= 12,53m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "7,65",
+              "texto_original": "A= 7,65m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "6,22",
+              "texto_original": "A= 6,22m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "16,76",
+              "texto_original": "A= 16,76m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "1,86",
+              "texto_original": "A= 1,86m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "2,02",
+              "texto_original": "A= 2,02m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "1,91",
+              "texto_original": "A= 1,91m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "3,00",
+              "texto_original": "A= 3,00m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "2,00",
+              "texto_original": "A= 2,00m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "6,12",
+              "texto_original": "A= 6,12m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "2,13",
+              "texto_original": "A= 2,13m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "2,34",
+              "texto_original": "A= 2,34m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "4,84",
+              "texto_original": "A= 4,84m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "4,84",
+              "texto_original": "A= 4,84m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "5,41",
+              "texto_original": "A= 5,41m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "3,86",
+              "texto_original": "A= 3,86m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "4,77",
+              "texto_original": "A= 4,77m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "4,77",
+              "texto_original": "A= 4,77m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "13,49",
+              "texto_original": "A= 13,49m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "6,81",
+              "texto_original": "A= 6,81m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "12,68",
+              "texto_original": "A= 12,68m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "6,17",
+              "texto_original": "A= 6,17m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "6,01",
+              "texto_original": "A= 6,01m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "7,74",
+              "texto_original": "A= 7,74m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "3,36",
+              "texto_original": "A= 3,36m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "2,88",
+              "texto_original": "A= 2,88m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "3,50",
+              "texto_original": "A= 3,50m²"
+            },
+            {
+              "estrutura": "areas",
+              "area_m2": "5,53",
+              "texto_original": "A= 5,53m²"
+            }
+          ]
+        }
+      },
+      "secoes_identificadas": []
+    }
+  },
+  "PROJ_ARQ_LEGAL_AmorSaúde_São Mateus_SP_R04-Layout1.pdf": {
+    "status": "sucesso",
+    "arquivo": "PROJ_ARQ_LEGAL_AmorSaúde_São Mateus_SP_R04-Layout1.pdf",
+    "estatisticas_texto": {
+      "linhas": 408,
+      "palavras": 662,
+      "caracteres": 7735
+    },
+    "secoes_identificadas": 0,
+    "resultados": {
+      "parser_geral": {
+        "quantidade_material": {
+          "quantidade": 105,
+          "materiais": [
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "1",
+              "unidade": null,
+              "material": "--\n3/$17$\u0003%$",
+              "texto_original": "1 ---\n3/$17$\u0003%$"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "3",
+              "unidade": null,
+              "material": "$9\u0011\u0003\u000bÈUHD \u0003\u0017\u0018\u0018\u000f\u0019\u001aPð\f\nEsc",
+              "texto_original": "3$9\u0011\u0003\u000bÈUHD \u0003\u0017\u0018\u0018\u000f\u0019\u001aPð\f\nEsc"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "1",
+              "unidade": null,
+              "material": "/75\n120x210Elevador\n\u0016\u000f\u0017\u0013Pð80x210\n80x21080x210\n80x21080x21080x210\n80x210\n80x210\n80x21080x21080x21080x210\n80x210\n3yV\u0003&RQVXOWD\n2GRQWROyJLFD\n\u0017\u000f\u001b\u0013Pð\nEspera\n2GRQWROyJLFD\n\u0017\u0016\u000f\u0018\u0016Pð\n5HFHSomR\n2GRQWROyJLFD\n\u0018\u0019\u000f\u001c\u0019PðCirc",
+              "texto_original": "1/75\n120x210Elevador\n\u0016\u000f\u0017\u0013Pð80x210\n80x21080x210\n80x21080x21080x210\n80x210\n80x210\n80x21080x21080x21080x210\n80x210\n3yV\u0003&RQVXOWD\n2GRQWROyJLFD\n\u0017\u000f\u001b\u0013Pð\nEspera\n2GRQWROyJLFD\n\u0017\u0016\u000f\u0018\u0016Pð\n5HFHSomR\n2GRQWROyJLFD\n\u0018\u0019\u000f\u001c\u0019PðCirc"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "3",
+              "unidade": null,
+              "material": "URMHomR\u0003GR\nRaio disparador\nRaio-X\n2",
+              "texto_original": "3URMHomR\u0003GR\nRaio disparador\nRaio-X\n2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "m\nRaio-X\n\u0014\u0015\u000f\u0018\u0014Pð&RQVXOWyULR\n2GRQWROyJLFR\n\u001c\u000f\u0017\u0016Pð&RQVXOWyULR\n2GRQWROyJLFR\n\u001c\u000f\u0017\u0016Pð&RQVXOWyULR\n2GRQWROyJLFR\n\u001c\u000f\u0017\u0016Pð&RQVXOWyULR\n2GRQWROyJLFR\n\u001c\u000f\u0017\u0016Pð\n&RQVXOWyULR\n2GRQWROyJLFR\n\u001c\u000f\u0017\u0016Pð&RQVXOWyULR\n2GRQWROyJLFR\n\u001c\u000f\u0017\u0016Pð&RQVXOWyULR\n2GRQWROyJLFR\n\u0014\u0013\u000f\u0017\u0018Pð&RQVXOWyULR\n2GRQWROyJLFR\n\u001c\u000f\u0017\u0016Pð\n80x210&RQVXOWyULR\n2GRQWROyJLFR\n\u001c\u000f\u0017\u0016Pð\n&RQVXOWyULR\n2GRQWROyJLFR\n\u001c\u000f\u0015\u0015PðH=11080x210Sala de\n(VWHULOL]DomR\n\u0018\u000f\u001b\u001bPðSala de Limpeza/\nExpurgo\n\u0016\u000f\u001a\u0017Pð80x21080x210\nFinanceiro\n\u0014\u0016\u000f\u0018\u0019Pð\n140x210*HUrQFLD\n\u0014\u0014\u000f\u0015\u001bPð\n100x21070x210\n70x21070x210\n70x210\nVest",
+              "texto_original": "00m\nRaio-X\n\u0014\u0015\u000f\u0018\u0014Pð&RQVXOWyULR\n2GRQWROyJLFR\n\u001c\u000f\u0017\u0016Pð&RQVXOWyULR\n2GRQWROyJLFR\n\u001c\u000f\u0017\u0016Pð&RQVXOWyULR\n2GRQWROyJLFR\n\u001c\u000f\u0017\u0016Pð&RQVXOWyULR\n2GRQWROyJLFR\n\u001c\u000f\u0017\u0016Pð\n&RQVXOWyULR\n2GRQWROyJLFR\n\u001c\u000f\u0017\u0016Pð&RQVXOWyULR\n2GRQWROyJLFR\n\u001c\u000f\u0017\u0016Pð&RQVXOWyULR\n2GRQWROyJLFR\n\u0014\u0013\u000f\u0017\u0018Pð&RQVXOWyULR\n2GRQWROyJLFR\n\u001c\u000f\u0017\u0016Pð\n80x210&RQVXOWyULR\n2GRQWROyJLFR\n\u001c\u000f\u0017\u0016Pð\n&RQVXOWyULR\n2GRQWROyJLFR\n\u001c\u000f\u0015\u0015PðH=11080x210Sala de\n(VWHULOL]DomR\n\u0018\u000f\u001b\u001bPðSala de Limpeza/\nExpurgo\n\u0016\u000f\u001a\u0017Pð80x21080x210\nFinanceiro\n\u0014\u0016\u000f\u0018\u0019Pð\n140x210*HUrQFLD\n\u0014\u0014\u000f\u0015\u001bPð\n100x21070x210\n70x21070x210\n70x210\nVest"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "90",
+              "unidade": null,
+              "material": "x210Corre\nh=90Banh",
+              "texto_original": "90x210Corre\nh=90Banh"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "105",
+              "unidade": null,
+              "material": "x130/110 120x130/110 120x130/110 120x130/110 120x130/110120x130/110 120x130/110 120x130/110\n120x130/110 80x60/180 120x130/110 120x130/11080x60/180\n80x60/180 80x60/180\nH=9080x210\n90x21060x210H=9080x210Banh",
+              "texto_original": "105x130/110 120x130/110 120x130/110 120x130/110 120x130/110120x130/110 120x130/110 120x130/110\n120x130/110 80x60/180 120x130/110 120x130/11080x60/180\n80x60/180 80x60/180\nH=9080x210\n90x21060x210H=9080x210Banh"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "60",
+              "unidade": null,
+              "material": "x210\n60x210Circ",
+              "texto_original": "60x210\n60x210Circ"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "x60/180 80x60/180 80x60/18080x210Apoio",
+              "texto_original": "80x60/180 80x60/180 80x60/18080x210Apoio"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "3",
+              "unidade": null,
+              "material": "yV\u0003&RQVXOWD\n2GRQWROyJLFD\n\u0019\u000f\u0018\u0013PðTV acima da\n porta\nDML\n\u0015\u000f\u0019\u0013Pð80x210\n100x210S\n495051525354 5657585960616264 706968676665 71\nh=110h=110Circ",
+              "texto_original": "3yV\u0003&RQVXOWD\n2GRQWROyJLFD\n\u0019\u000f\u0018\u0013PðTV acima da\n porta\nDML\n\u0015\u000f\u0019\u0013Pð80x210\n100x210S\n495051525354 5657585960616264 706968676665 71\nh=110h=110Circ"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "1",
+              "unidade": null,
+              "material": "Vidro Fixo\n50x210Vidro Fixo\n50x210Vidro Fixo\n50x210\n\r\u0016\u000e\u0014\u0012\r\u0016\u000e\u0014\u0012\r\u0016\u000e\u0014\u0012\n\r\u0016\u000e\u0014\u0012\n\r\u0016\u000e\u0014\u0012\r\u0016\u000e\u0014\u001280x210Vidro Fixo\n50x210\nVidro Fixo 550x130\nMaxim Ar 550x290/130Vidro Fixo 550x130\nMaxim Ar 550x290/130556372H=90 H=90 H=90 H=90\nH=90 H=90 H=90H=90\nH=90\nH=90\nH=90\nH=90\nCorreCorre\nCorre Corre\nH=90H=9080x210\n3/$17$\u0003%$",
+              "texto_original": "1\nVidro Fixo\n50x210Vidro Fixo\n50x210Vidro Fixo\n50x210\n\r\u0016\u000e\u0014\u0012\r\u0016\u000e\u0014\u0012\r\u0016\u000e\u0014\u0012\n\r\u0016\u000e\u0014\u0012\n\r\u0016\u000e\u0014\u0012\r\u0016\u000e\u0014\u001280x210Vidro Fixo\n50x210\nVidro Fixo 550x130\nMaxim Ar 550x290/130Vidro Fixo 550x130\nMaxim Ar 550x290/130556372H=90 H=90 H=90 H=90\nH=90 H=90 H=90H=90\nH=90\nH=90\nH=90\nH=90\nCorreCorre\nCorre Corre\nH=90H=9080x210\n3/$17$\u0003%$"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "7",
+              "unidade": null,
+              "material": "e55(2\u0003\u000bÈUHD \u0003\u0017\u0014\u0017\u000f\u001a\u0015Pð\f\nEsc",
+              "texto_original": "7e55(2\u0003\u000bÈUHD \u0003\u0017\u0014\u0017\u000f\u001a\u0015Pð\f\nEsc"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "1",
+              "unidade": null,
+              "material": "/75Rampa acesso garagem\n i=25%\u0012\u000e\u0012\u0012PASSEIO\n90x21060x210H=9080x21080x210\n80x210\n80x21080x21080x210120x210Elevador\n\u0016\u000f\u0017\u0013Pð\n80x21080x21080x210\n80x210\n80x21080x210\n80x21080x21080x210\nBanh",
+              "texto_original": "1/75Rampa acesso garagem\n i=25%\u0012\u000e\u0012\u0012PASSEIO\n90x21060x210H=9080x21080x210\n80x210\n80x21080x21080x210120x210Elevador\n\u0016\u000f\u0017\u0013Pð\n80x21080x21080x210\n80x210\n80x21080x210\n80x21080x21080x210\nBanh"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "60",
+              "unidade": null,
+              "material": "x21060x210\n80x210\n&RQVXOWyULR\nIndiferenciado\n\u001c\u000f\u0017\u0016Pð&RQVXOWyULR\nIndiferenciado\n\u001c\u000f\u0017\u0016Pð\n80x21080x210\n80x210Banh",
+              "texto_original": "60x21060x210\n80x210\n&RQVXOWyULR\nIndiferenciado\n\u001c\u000f\u0017\u0016Pð&RQVXOWyULR\nIndiferenciado\n\u001c\u000f\u0017\u0016Pð\n80x21080x210\n80x210Banh"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "180",
+              "unidade": null,
+              "material": "&RQVXOWyULR\n*LQHFROyJLFR\n\u0014\u0013\u000f\u0017\u0018Pð\nSala de\nUltrassonografia\n\u0014\u0016\u000f\u0018\u0016PðSala de\nrepouso\n\u001a\u000f\u0019\u0013Pð\nSala de\nprocedimentos\n\u0014\u0016\u000f\u0014\u0015Pð\n80x210\n&RQVXOWyULR\nIndiferenciado\n\u001c\u000f\u0017\u0016PðBanh",
+              "texto_original": "180&RQVXOWyULR\n*LQHFROyJLFR\n\u0014\u0013\u000f\u0017\u0018Pð\nSala de\nUltrassonografia\n\u0014\u0016\u000f\u0018\u0016PðSala de\nrepouso\n\u001a\u000f\u0019\u0013Pð\nSala de\nprocedimentos\n\u0014\u0016\u000f\u0014\u0015Pð\n80x210\n&RQVXOWyULR\nIndiferenciado\n\u001c\u000f\u0017\u0016PðBanh"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "3",
+              "unidade": null,
+              "material": "yV\u0003&RQVXOWD\n0pGLFD\n\u0014\u001b\u000f\u0015\u0013PðEspera\n0pGLFD\n\u0016\u001b\u000f\u001c\u0015Pð\n5HFHSomR\n0pGLFD\n\u0019\u0014\u000f\u0014\u0017Pð\n290x260(VSHUD\u00030pGLFD\n\u0014\u0015\u000f\u001c\u0019Pð&RQVXOWyULR\nIndeferenciado\n\u001c\u000f\u0017\u0016PðCirc",
+              "texto_original": "3yV\u0003&RQVXOWD\n0pGLFD\n\u0014\u001b\u000f\u0015\u0013PðEspera\n0pGLFD\n\u0016\u001b\u000f\u001c\u0015Pð\n5HFHSomR\n0pGLFD\n\u0019\u0014\u000f\u0014\u0017Pð\n290x260(VSHUD\u00030pGLFD\n\u0014\u0015\u000f\u001c\u0019Pð&RQVXOWyULR\nIndeferenciado\n\u001c\u000f\u0017\u0016PðCirc"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "0",
+              "unidade": null,
+              "material": "pGLFD\n\u0018\u000f\u0016\u0016Pð\nCirc",
+              "texto_original": "0pGLFD\n\u0018\u000f\u0016\u0016Pð\nCirc"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "3",
+              "unidade": null,
+              "material": "URMHomR\u0003ODMH105x130/110 120x130/110 120x130/110 120x130/110 80x60/180120x130/110 120x130/110 120x130/110\n80x60/180 120x130/110 80x60/180 80x60/180 80x60/180 120x130/110 120x130/11080x60/18080x210\nApoio",
+              "texto_original": "3URMHomR\u0003ODMH105x130/110 120x130/110 120x130/110 120x130/110 80x60/180120x130/110 120x130/110 120x130/110\n80x60/180 120x130/110 80x60/180 80x60/180 80x60/180 120x130/110 120x130/11080x60/18080x210\nApoio"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "x210 80x210\n&RQVXOWyULR\n2IWDOPROyJLFR\n\u0014\u0014\u000f\u0013\u0018Pð\n70x210\nCopa\n\u001c\u000f\u0017\u0016Pð120x130/110H=90\nH=90H110\nH=90\nSala de\nColeta\n\u0014\u0017\u000f\u0015\u0018Pð\nS\n252627282930 3233343536373840 464544434241 47h=110\nJardim\n\u0018\u001c\u000f\u0013\u0013PðJardim\n\u0014\u0017\u000f\u0013\u0013Pð&LUFXODomR\n\u0019\u000f\u0019\u0013Pð\nBB\nA A\nVidro Fixo 550x420\nMaxim Ar 550x420Vidro Fixo 280x420\nMaxim Ar 280x420C C\n3URMHomR\u0003ODMHDetalhe 1\nMuro h=300Muro h=300Muro h=300220x240h=90 h=90h=90\nh=90Lav",
+              "texto_original": "80x210 80x210\n&RQVXOWyULR\n2IWDOPROyJLFR\n\u0014\u0014\u000f\u0013\u0018Pð\n70x210\nCopa\n\u001c\u000f\u0017\u0016Pð120x130/110H=90\nH=90H110\nH=90\nSala de\nColeta\n\u0014\u0017\u000f\u0015\u0018Pð\nS\n252627282930 3233343536373840 464544434241 47h=110\nJardim\n\u0018\u001c\u000f\u0013\u0013PðJardim\n\u0014\u0017\u000f\u0013\u0013Pð&LUFXODomR\n\u0019\u000f\u0019\u0013Pð\nBB\nA A\nVidro Fixo 550x420\nMaxim Ar 550x420Vidro Fixo 280x420\nMaxim Ar 280x420C C\n3URMHomR\u0003ODMHDetalhe 1\nMuro h=300Muro h=300Muro h=300220x240h=90 h=90h=90\nh=90Lav"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "313948",
+              "unidade": null,
+              "material": "RAMPA\ni=25%SH=90 H=90 H=90H=90\nH=90H=90\nEE\nDETALHE 13/$17$\u0003%$",
+              "texto_original": "313948RAMPA\ni=25%SH=90 H=90 H=90H=90\nH=90H=90\nEE\nDETALHE 13/$17$\u0003%$"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "68",
+              "unidade": null,
+              "material": "%62/2\u0003\u000bÈUHD \u0003\u0017\u0014\u0017\u000f\u001a\u0015Pð\f\nEsc",
+              "texto_original": "68%62/2\u0003\u000bÈUHD \u0003\u0017\u0014\u0017\u000f\u001a\u0015Pð\f\nEsc"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "1",
+              "unidade": null,
+              "material": "/75\u0012\u000e\u0012\u0012\nRampa acesso garagem\n i=25%PASSEIO90x210Elevador\n\u0016\u000f\u0017\u0013Pð\n120x2103URMHomR\u0003ODMHVaga 12\n\u0014\u0014\u000f\u0018\u0013PðVaga 13\n\u0014\u0014\u000f\u0018\u0013PðVaga 14\n\u0014\u0014\u000f\u0018\u0013PðVaga 15\n\u0014\u0014\u000f\u0018\u0013Pð\n9DJD\u0003DFHVVtYHO\u0003\u0013\u0015\n\u0014\u0015\u000f\u0013\u0013PðVaga 03\n\u0014\u0014\u000f\u0018\u0013PðVaga 04\n\u0014\u0014\u000f\u0018\u0013PðVaga 05\n\u0014\u0014\u000f\u0018\u0013PðVaga 06\n\u0014\u0014\u000f\u0018\u0013PðVaga 07\n\u0014\u0014\u000f\u0018\u0013PðVaga 08\n\u0014\u0014\u000f\u0018\u0013PðVaga 09\n\u0014\u0014\u000f\u0018\u0013PðVaga 10\n\u0014\u0014\u000f\u0018\u0013Pð\nGaragem\n\u0017\u001c\u001a\u000f\u0016\u0019Pð3URMHomR\u0003ODMH\n290x260\nRAMPA\ni=25%S\nHall\n\u0014\u0013\u000f\u0016\u0018Pð\nDML\n\u001b\u000f\u0015\u001bPð'HSyVLWR\nTemp",
+              "texto_original": "1/75\u0012\u000e\u0012\u0012\nRampa acesso garagem\n i=25%PASSEIO90x210Elevador\n\u0016\u000f\u0017\u0013Pð\n120x2103URMHomR\u0003ODMHVaga 12\n\u0014\u0014\u000f\u0018\u0013PðVaga 13\n\u0014\u0014\u000f\u0018\u0013PðVaga 14\n\u0014\u0014\u000f\u0018\u0013PðVaga 15\n\u0014\u0014\u000f\u0018\u0013Pð\n9DJD\u0003DFHVVtYHO\u0003\u0013\u0015\n\u0014\u0015\u000f\u0013\u0013PðVaga 03\n\u0014\u0014\u000f\u0018\u0013PðVaga 04\n\u0014\u0014\u000f\u0018\u0013PðVaga 05\n\u0014\u0014\u000f\u0018\u0013PðVaga 06\n\u0014\u0014\u000f\u0018\u0013PðVaga 07\n\u0014\u0014\u000f\u0018\u0013PðVaga 08\n\u0014\u0014\u000f\u0018\u0013PðVaga 09\n\u0014\u0014\u000f\u0018\u0013PðVaga 10\n\u0014\u0014\u000f\u0018\u0013Pð\nGaragem\n\u0017\u001c\u001a\u000f\u0016\u0019Pð3URMHomR\u0003ODMH\n290x260\nRAMPA\ni=25%S\nHall\n\u0014\u0013\u000f\u0016\u0018Pð\nDML\n\u001b\u000f\u0015\u001bPð'HSyVLWR\nTemp"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "5",
+              "unidade": null,
+              "material": "HVtGXRV\n\u001c\u000f\u001a\u0015Pð\n90x210\nVaga 1\n\u0014\u0015\u000f\u0013\u0013Pðh=110\n0116\n0203 080910111213141517181920\nSJardim\n\u0014\u0014\u0016\u000f\u0013\u0017Pð\n90x210A A\nBB\nC C\nEE\n3URMHomR\u0003ODMHDetalhe 1\nTerreno NaturalMuro de arrimo\n h=405Ä\u0014\u000e\u001a\u0017\nÄ\u0014\u000e\u001a\u0017Vaga 11\n\u0014\u0014\u000f\u0018\u0013Pð\n04 05060721222324Muro de arrimo h=405\nMuro de arrimo h=405 Muro de arrimo h=405\nTampacaixa deFDSWDomR\u0003HdrenagemDETALHAMENTO 02\n/(*(1'$\u0003'(\u0003È5($6\n7(55(12\u0003\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0003\u001a\u0019\u0016\u000f\u001a\u0013\u0003Pð\nPAVIMENTO È5($\u0003&20387È9(/ È5($\u00031­2\u0003&20387È9(/ TOTAL\n7pUUHR\nElevador Escada\n\u0015\u00033DYLPHQWR\nElevador Escada\n\u0016\u00033DYLPHQWR\nElevador Escada\u0016\u001b\u001c\u000f\u0014\u0014\u0003Pð-\n-\n-\nTOTAL \u0014\u0011\u0014\u001a\u001b\u000f\u0016\u001cPð\u0017\u0016\u0013\u000f\u0013\u0019Pð\u0018\u000f\u0013\u0017\u0003Pð\u0015\u0013\u000f\u0018\u001a\u0003Pð\nÈUHD\u00033HUPHYiYHO \u0014\u0018\u001b\u000f\u001a\u001b\u0003Pð -\u0016\u0018\u001c\u000f\u0015\u0015Pð\n-\u0018\u000f\u0013\u0017\u0003Pð\u0015\u0013\u000f\u0018\u001a\u0003Pð\n\u0018\u000f\u0013\u0017\u0003Pð\u0014\u0015\u000f\u0013\u0017\u0003Pð\u0016\u001b\u001c\u000f\u0014\u0014\u0003Pð\n\u0014\u0011\u0019\u0019\u0014\u000f\u0017\u0014\u0003Pð\u0017\u0016\u0013\u000f\u0013\u0019Pð\u0018\u000f\u0013\u0017\u0003Pð\u0015\u0013\u000f\u0018\u001a\u0003Pð\n\u0016\u0018\u001c\u000f\u0015\u0015Pð\u0018\u000f\u0013\u0017\u0003Pð\u0015\u0013\u000f\u0018\u001a\u0003Pð\n\u0018\u000f\u0013\u0017\u0003Pð\u0014\u0015\u000f\u0013\u0017\u0003Pð\n\u0017\u001b\u0016\u000f\u0013\u0015Pð\nË1'",
+              "texto_original": "5HVtGXRV\n\u001c\u000f\u001a\u0015Pð\n90x210\nVaga 1\n\u0014\u0015\u000f\u0013\u0013Pðh=110\n0116\n0203 080910111213141517181920\nSJardim\n\u0014\u0014\u0016\u000f\u0013\u0017Pð\n90x210A A\nBB\nC C\nEE\n3URMHomR\u0003ODMHDetalhe 1\nTerreno NaturalMuro de arrimo\n h=405Ä\u0014\u000e\u001a\u0017\nÄ\u0014\u000e\u001a\u0017Vaga 11\n\u0014\u0014\u000f\u0018\u0013Pð\n04 05060721222324Muro de arrimo h=405\nMuro de arrimo h=405 Muro de arrimo h=405\nTampacaixa deFDSWDomR\u0003HdrenagemDETALHAMENTO 02\n/(*(1'$\u0003'(\u0003È5($6\n7(55(12\u0003\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0003\u001a\u0019\u0016\u000f\u001a\u0013\u0003Pð\nPAVIMENTO È5($\u0003&20387È9(/ È5($\u00031­2\u0003&20387È9(/ TOTAL\n7pUUHR\nElevador Escada\n\u0015\u00033DYLPHQWR\nElevador Escada\n\u0016\u00033DYLPHQWR\nElevador Escada\u0016\u001b\u001c\u000f\u0014\u0014\u0003Pð-\n-\n-\nTOTAL \u0014\u0011\u0014\u001a\u001b\u000f\u0016\u001cPð\u0017\u0016\u0013\u000f\u0013\u0019Pð\u0018\u000f\u0013\u0017\u0003Pð\u0015\u0013\u000f\u0018\u001a\u0003Pð\nÈUHD\u00033HUPHYiYHO \u0014\u0018\u001b\u000f\u001a\u001b\u0003Pð -\u0016\u0018\u001c\u000f\u0015\u0015Pð\n-\u0018\u000f\u0013\u0017\u0003Pð\u0015\u0013\u000f\u0018\u001a\u0003Pð\n\u0018\u000f\u0013\u0017\u0003Pð\u0014\u0015\u000f\u0013\u0017\u0003Pð\u0016\u001b\u001c\u000f\u0014\u0014\u0003Pð\n\u0014\u0011\u0019\u0019\u0014\u000f\u0017\u0014\u0003Pð\u0017\u0016\u0013\u000f\u0013\u0019Pð\u0018\u000f\u0013\u0017\u0003Pð\u0015\u0013\u000f\u0018\u001a\u0003Pð\n\u0016\u0018\u001c\u000f\u0015\u0015Pð\u0018\u000f\u0013\u0017\u0003Pð\u0015\u0013\u000f\u0018\u001a\u0003Pð\n\u0018\u000f\u0013\u0017\u0003Pð\u0014\u0015\u000f\u0013\u0017\u0003Pð\n\u0017\u001b\u0016\u000f\u0013\u0015Pð\nË1'"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "6",
+              "unidade": null,
+              "material": "\u000385%$1Ë67",
+              "texto_original": "6\u000385%$1Ë67"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "26",
+              "unidade": null,
+              "material": "TIPO\nÈUHD\u0003GR\u00037HUUHQRTAXA È5($\u0003 TOTAL APLICADO\nÈUHD\u00033HUPHiYHO\nRecuo Frontal\nRecuo Fundo\nRecuo PosteriorRecuo Lateral\nC",
+              "texto_original": "26\nTIPO\nÈUHD\u0003GR\u00037HUUHQRTAXA È5($\u0003 TOTAL APLICADO\nÈUHD\u00033HUPHiYHO\nRecuo Frontal\nRecuo Fundo\nRecuo PosteriorRecuo Lateral\nC"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "15",
+              "unidade": null,
+              "material": "%\u001a\u0019\u0016\u000f\u001a\u0013\u0003PðPORCENTAGEM\nÈUHD\u0003D\u0003&RQVWUXLU\nÈUHD\u0003&RPSXWiYHO\nÈUHD\u0003QmR\u0003&RPSXWiYHO5",
+              "texto_original": "15%\u001a\u0019\u0016\u000f\u001a\u0013\u0003PðPORCENTAGEM\nÈUHD\u0003D\u0003&RQVWUXLU\nÈUHD\u0003&RPSXWiYHO\nÈUHD\u0003QmR\u0003&RPSXWiYHO5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "m\n1",
+              "texto_original": "00 m\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "m\n1",
+              "texto_original": "50 m\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "m\n2",
+              "texto_original": "50 m\n2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "0",
+              "unidade": null,
+              "material": "-\n-\n-1",
+              "texto_original": "0-\n-\n-\n-1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "55",
+              "unidade": null,
+              "material": "m3",
+              "texto_original": "55 m3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "m5",
+              "texto_original": "50 m5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "m\u001a\u0019\u0016\u000f\u001a\u0013\u0003Pð -\n-\n-\n-\n-\n-\n-3",
+              "texto_original": "00m\u001a\u0019\u0016\u000f\u001a\u0013\u0003Pð -\n-\n-\n-\n-\n-\n-3"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "00",
+              "unidade": null,
+              "material": "m\u0014\u0018\u001b\u000f\u001a\u001bPð - 20",
+              "texto_original": "00 m\u0014\u0018\u001b\u000f\u001a\u001bPð - 20"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "79",
+              "unidade": null,
+              "material": "%\n1",
+              "texto_original": "79%\n1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "54",
+              "unidade": null,
+              "material": "-\n--\n-\n--ÈUHD\u0003GH\u0003SURMHomR - \u0017\u0018\u0018\u000f\u0019\u001a\u0003Pð\n7D[D\u0003GH\u0003RFXSDomR 70% - 59",
+              "texto_original": "54\n-\n-\n--\n-\n--ÈUHD\u0003GH\u0003SURMHomR - \u0017\u0018\u0018\u000f\u0019\u001a\u0003Pð\n7D[D\u0003GH\u0003RFXSDomR 70% - 59"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "66",
+              "unidade": null,
+              "material": "%- -- \u0014\u0011\u0014\u001a\u001b\u000f\u0016\u001c\u0003Pð\n-1",
+              "texto_original": "66%- -- \u0014\u0011\u0014\u001a\u001b\u000f\u0016\u001c\u0003Pð\n-1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "55",
+              "unidade": null,
+              "material": "m\n\u0014\u0011\u0019\u0019\u0014\u000f\u0017\u0014Pð\n\u0014\u0011\u0014\u001a\u001b\u000f\u0016\u001c\u0003PðSubsolo \u0017\u0014\u0017\u000f\u001a\u0015\u0003Pð \u0017\u0014\u0017\u000f\u001a\u0015\u0003Pð\nEscada\nElevador -\n\u0017\u001b\u0016\u000f\u0013\u0015Pð\nCORTE AA\nEsc",
+              "texto_original": "55 m\n\u0014\u0011\u0019\u0019\u0014\u000f\u0017\u0014Pð\n\u0014\u0011\u0014\u001a\u001b\u000f\u0016\u001c\u0003PðSubsolo \u0017\u0014\u0017\u000f\u001a\u0015\u0003Pð \u0017\u0014\u0017\u000f\u001a\u0015\u0003Pð\nEscada\nElevador -\n\u0017\u001b\u0016\u000f\u0013\u0015Pð\nCORTE AA\nEsc"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "1",
+              "unidade": null,
+              "material": "/75RAMPA(63(5$\u00030e'",
+              "texto_original": "1/75RAMPA(63(5$\u00030e'"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "63",
+              "unidade": null,
+              "material": "(5$\u00030e'",
+              "texto_original": "63(5$\u00030e'"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "3257",
+              "unidade": null,
+              "material": "­2\u0003*$5$*(0\nGARAGEMT",
+              "texto_original": "3257­2\u0003*$5$*(0\nGARAGEMT"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "5",
+              "unidade": null,
+              "material": "&8/$d­2 (63(5$\u00030e'",
+              "texto_original": "5&8/$d­2 (63(5$\u00030e'"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "2",
+              "unidade": null,
+              "material": "$\u0003)8785$\u0003(;3$16­2 /2-$\u0003)8785$\u0003(;3$16­2BARRILETE5(6(59$7Ï5",
+              "texto_original": "2-$\u0003)8785$\u0003(;3$16­2 /2-$\u0003)8785$\u0003(;3$16­2BARRILETE5(6(59$7Ï5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "2",
+              "unidade": null,
+              "material": "Muro de arrimo\nMuro de arrimo\n0",
+              "texto_original": "2\nMuro de arrimo\nMuro de arrimo\n0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "40",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "400"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "500"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "30",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "30\n0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "80\n0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "500"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "30",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "30\n0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "40",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "400"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "800"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "75",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "75\n0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "75",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "750"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "0",
+              "texto_original": "500"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "Pi[\u00110",
+              "texto_original": "80Pi[\u00110"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "50",
+              "unidade": null,
+              "material": "PtQ",
+              "texto_original": "50\nPtQ"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "25",
+              "unidade": null,
+              "material": "\u0013\u000f\u001a\u0016\u0003PtQ\u00110",
+              "texto_original": "25\u0013\u000f\u001a\u0016\u0003PtQ\u00110"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "80",
+              "unidade": null,
+              "material": "PtQ0",
+              "texto_original": "80\nPtQ0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "04",
+              "unidade": null,
+              "material": "PtQ0",
+              "texto_original": "04\nPtQ0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "04",
+              "unidade": null,
+              "material": "PtQ0",
+              "texto_original": "04PtQ0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "30",
+              "unidade": null,
+              "material": "PtQ0",
+              "texto_original": "30\nPtQ0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "30",
+              "unidade": null,
+              "material": "PtQ0",
+              "texto_original": "30PtQ0"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "04",
+              "unidade": null,
+              "material": "VISTA SUPERIOR VISTA FRONTAL\nVISTA LATERAL-8172\u0003$\u0003%$&",
+              "texto_original": "04\nVISTA SUPERIOR VISTA FRONTAL\nVISTA LATERAL-8172\u0003$\u0003%$&"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "6",
+              "unidade": null,
+              "material": "$1",
+              "texto_original": "6$1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "7",
+              "unidade": null,
+              "material": "È5",
+              "texto_original": "7È5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "8172",
+              "unidade": null,
+              "material": "\u0003$2\u0003/$9$7Ï5",
+              "texto_original": "8172\u0003$2\u0003/$9$7Ï5"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "2",
+              "unidade": null,
+              "material": "\u0003DETALHE BARRAS DE APOIO\nVISTA LATERAL VISTA SUPERIOR\nsem escala sem escala sem escala sem escala\nsem escala37#&41\u0003\u0003\u0003\u0003&'\u0003\u0003\u0003\u0003¥4'#5\u0003\u0003\u0003\u0003\n\u0003O\u0014\u0003\u000b2",
+              "texto_original": "2\u0003DETALHE BARRAS DE APOIO\nVISTA LATERAL VISTA SUPERIOR\nsem escala sem escala sem escala sem escala\nsem escala37#&41\u0003\u0003\u0003\u0003&'\u0003\u0003\u0003\u0003¥4'#5\u0003\u0003\u0003\u0003\n\u0003O\u0014\u0003\u000b2"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "06",
+              "unidade": null,
+              "material": "#\u0003$#+:#\n37#&4#5+67#c1\u0003\u0003\u00035'/\u0003\u0003\u0003'5%#",
+              "texto_original": "06#\u0003$#+:#\n37#&4#5+67#c1\u0003\u0003\u00035'/\u0003\u0003\u0003'5%#"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "441",
+              "unidade": null,
+              "material": "\u00031$",
+              "texto_original": "441\u00031$"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "61",
+              "unidade": null,
+              "material": "\u0003\u0003\n6+21",
+              "texto_original": "61\u0003\u0003\n6+21"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "1",
+              "unidade": null,
+              "material": ")+#\n",
+              "texto_original": "1)+#\n"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "16",
+              "unidade": null,
+              "material": "'#/'061",
+              "texto_original": "16'#/'061"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "1",
+              "unidade": null,
+              "material": "%#",
+              "texto_original": "1%#"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "1",
+              "unidade": null,
+              "material": "%#",
+              "texto_original": "1%#"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "10",
+              "unidade": null,
+              "material": " ",
+              "texto_original": "10 "
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "16",
+              "unidade": null,
+              "material": "'\n24124+'6¥4+1&'%",
+              "texto_original": "16'\n24124+'6¥4+1&'%"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "4",
+              "unidade": null,
+              "material": "#c'55'614\u0003\u0011\u000357$Ä5'614%#&#5641\n%+&#&'#6+8+&#&'4'564+c1\u0003&'\u0003751\n\u0012\u0013\u0011\u0012\u0015(1",
+              "texto_original": "4#c'55'614\u0003\u0011\u000357$Ä5'614%#&#5641\n%+&#&'#6+8+&#&'4'564+c1\u0003&'\u0003751\n\u0012\u0013\u0011\u0012\u0015(1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "216758",
+              "unidade": null,
+              "material": "d­2\n6(59",
+              "texto_original": "216758d­2\n6(59"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "2",
+              "unidade": null,
+              "material": "\u00039(57",
+              "texto_original": "2\u00039(57"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "35",
+              "unidade": null,
+              "material": "(67$d­2\u0003'(\u00036(59",
+              "texto_original": "35(67$d­2\u0003'(\u00036(59"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "26",
+              "unidade": null,
+              "material": "\u00030e'",
+              "texto_original": "26\u00030e'"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "26",
+              "unidade": null,
+              "material": "\u0003(\u00032'2172/Ï*",
+              "texto_original": "26\u0003(\u00032'2172/Ï*"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "26",
+              "unidade": null,
+              "material": "58$\u0003Æ1*(/2\u0003'(\u0003&$1'",
+              "texto_original": "26\n58$\u0003Æ1*(/2\u0003'(\u0003&$1'"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "4",
+              "unidade": null,
+              "material": "'52\u00106d%0+%1 4'5'48#&1\u00032\u0011\u0003751\u0003&#\u00032/(5 %105647614#\n241%\u0010(1",
+              "texto_original": "4'52\u00106d%0+%1 4'5'48#&1\u00032\u0011\u0003751\u0003&#\u00032/(5 %105647614#\n241%\u0010(1"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "0",
+              "unidade": null,
+              "material": "\n#55\u0010\u0011%#4+/$1#7614\u0003241",
+              "texto_original": "0\n#55\u0010\u0011%#4+/$1#7614\u0003241"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "61",
+              "unidade": null,
+              "material": "47#\u0003£0)'",
+              "texto_original": "61\n47#\u0003£0)'"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "1",
+              "unidade": null,
+              "material": "\u0003&'\u0003%#0&+#645\n6­2\u00030$7(86\n47#\u0003",
+              "texto_original": "1\u0003&'\u0003%#0&+#645\n6­2\u00030$7(86\n47#\u0003"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "7",
+              "unidade": null,
+              "material": "¨5\u0003$166#-08/09/10 BL\n6­2\u00030$7(8647#\u0003#",
+              "texto_original": "7¨5\u0003$166#-08/09/10 BL\n6­2\u00030$7(8647#\u0003#"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "55",
+              "unidade": null,
+              "material": "#0&41\u0003)+7",
+              "texto_original": "55#0&41\u0003)+7"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "1",
+              "unidade": null,
+              "material": "\u0003&'",
+              "texto_original": "1\u0003&'"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "4",
+              "unidade": null,
+              "material": "+0)#\n47#\u0003241(\u0010\u0003$4#5¨",
+              "texto_original": "4+0)#\n47#\u0003241(\u0010\u0003$4#5¨"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "1",
+              "unidade": null,
+              "material": "\u0003$#40+\n(\u00031\u0003*\u0003(\u00031\u0003+\u0003$\u00035\u0003",
+              "texto_original": "1\u0003$#40+\n(\u00031\u0003*\u0003(\u00031\u0003+\u0003$\u00035\u0003"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "2",
+              "unidade": null,
+              "material": "\u00031\u00036\u00037\u00035\u00038\u0003d\u0003®\u0003(\u00036\n58$\u00030$&+$'2\u0003'(\u0003$66",
+              "texto_original": "2\u00031\u00036\u00037\u00035\u00038\u0003d\u0003®\u0003(\u00036\n58$\u00030$&+$'2\u0003'(\u0003$66"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "6",
+              "unidade": null,
+              "material": "\u00031\u0003\u0017\u0016\u0018\u0003%\u0011\u0003&",
+              "texto_original": "6\u00031\u0003\u0017\u0016\u0018\u0003%\u0011\u0003&"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "12",
+              "unidade": null,
+              "material": "%5(\u0003\u0003",
+              "texto_original": "12%5(\u0003\u0003"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "3",
+              "unidade": null,
+              "material": "$7",
+              "texto_original": "3$7"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "1",
+              "unidade": null,
+              "material": "*$\u0003\u00100*\n       TELEFAX: (31)  3823 3765 e-mail: projectar@terra",
+              "texto_original": "1*$\u0003\u00100*\n       TELEFAX: (31)  3823 3765 e-mail: projectar@terra"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "1",
+              "unidade": null,
+              "material": "\u0003*\u0003(\u00031\u0003+\u0003$\u00035\u0003",
+              "texto_original": "1\u0003*\u0003(\u00031\u0003+\u0003$\u00035\u0003"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "2",
+              "unidade": null,
+              "material": "\u00031\u00036\u00037\u00035\u00038\u0003d\u0003®\u0003(\u00036\n58$\u00030$&+$'2\u0003'(\u0003$66",
+              "texto_original": "2\u00031\u00036\u00037\u00035\u00038\u0003d\u0003®\u0003(\u00036\n58$\u00030$&+$'2\u0003'(\u0003$66"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "6",
+              "unidade": null,
+              "material": "\u00031\u0003\u0017\u0016\u0018\u0003%\u0011\u0003&",
+              "texto_original": "6\u00031\u0003\u0017\u0016\u0018\u0003%\u0011\u0003&"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "12",
+              "unidade": null,
+              "material": "%5(\u0003\u0003",
+              "texto_original": "12%5(\u0003\u0003"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "3",
+              "unidade": null,
+              "material": "$7",
+              "texto_original": "3$7"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "1",
+              "unidade": null,
+              "material": "*$\u0003\u00100*\n       TELEFAX: (31)  3823 3765 e-mail: projectar@terra",
+              "texto_original": "1*$\u0003\u00100*\n       TELEFAX: (31)  3823 3765 e-mail: projectar@terra"
+            },
+            {
+              "estrutura": "quantidade_material",
+              "quantidade": "2",
+              "unidade": null,
+              "material": "V\u0003VDQLWiULRV\u0003GHYHUmR\u0003FRQWHU\u0003OL[HLUD\u0010\u00032\u0003SLVR\u0003GHYHUi\u0003VHU\u0003OLVR\u000f\u0003LPSHUPHiYHO\u000f\u0003ODYiYHO\u0003H\u0003UHVLVWHQWH\u0003D\u0003VDQHDQWHV\u001e\n\u0010\u0003ÈUHDV\u0003PROKDGDV\u0003KDYHUi\u0003UDORV\u0003FRP\u0003IHFKRV\u0003KtGULFRV\u0003\u000bVLI}HV\f\u0003H\u0003WDPSD\u0003FRPGHSyVLWR\u0003GH\u0003PDWHULDO\u000f\u0003FR]LQKD\u0012FRSD\u000f\u0003VDQLWiULRV\u000f\u0003GHYHUmR\u0003VHU\u0003UHYHVWLGR\u0003GH\u0010\u0003$V\u0003SDUHGHV\u0003GH\u0003iUHDV\u0003FRPR\u0003VDOD\u0003GH\u0003HVWHULOL]DomR\u0003GH\u0003PDWHULDLV\u000f\u0003H[DPHV\u000f\nPDWHULDO\u0003OLVR\u000f\u0003UHVLVWHQWH\u000f\u0003LPSHUPHiYHO\u0003H\u0003ODYiYHO\u001e\nVHP\u0003R\u0003XVR\u0003GDV\u0003PmRV\u0011FRP\u0003WDPSD\u0003H\u0003SHGDO\u000f\u0003SLD\u0003FRP\u0003iJXD\u0003FRUUHQWH\u000f\u0003VDEmR\u0003OtTXLGR\u0003H\u0003WRDOKD\u0003GHVFDUWiYHO\n\u0010\u0003+DYHUi\u0003ODYDWyULR\u0003H[FOXVLYR\u0003SDUD\u0003ODYDJHP\u0003GDV\u0003PmRV\u0003HP\u0003FDGD\u0003FRQVXOWyULR\u0011\nPHFkQLFD\u0003FRP\u0003UHQRYDomR\u0003GH\u0003DU\u000f\u0003DPERV\u0003GH\u0003DFRUGR\u0003FRP\u0003D\u00035'&\u0003\u0018\u0013\u0012\u0013\u0015\u0011fechamento escamoteado;\n\u0010\u00037RGRV\u0003RV\u0003ODYDWyULRV\u0003GH\u0003KLJLHQL]DomR\u0003VmR\u0003GRWDGRV\u0003GH\u0003WRUQHLUDV\u0003GH\u0003IHFKDPHQWR\n\u0010\u00037RGDV\u0003DV\u0003iUHDV\u0003TXH\u0003QmR\u0003SRVVXHP\u0003YHQWLODomR\u0003GLUHWDV\u0003VHUmR\u0003DWHQGLGDV\nDUWLILFLDOPHQWH\u0003SRU\u0003VLVWHPDV\u0003GH\u0003DU\u0003FRQGLFLRQDGR\u0003RX\u0003VLVWHPD\u0003GH\u0003YHQWLODomR",
+              "texto_original": "2V\u0003VDQLWiULRV\u0003GHYHUmR\u0003FRQWHU\u0003OL[HLUD\u0010\u00032\u0003SLVR\u0003GHYHUi\u0003VHU\u0003OLVR\u000f\u0003LPSHUPHiYHO\u000f\u0003ODYiYHO\u0003H\u0003UHVLVWHQWH\u0003D\u0003VDQHDQWHV\u001e\n\u0010\u0003ÈUHDV\u0003PROKDGDV\u0003KDYHUi\u0003UDORV\u0003FRP\u0003IHFKRV\u0003KtGULFRV\u0003\u000bVLI}HV\f\u0003H\u0003WDPSD\u0003FRPGHSyVLWR\u0003GH\u0003PDWHULDO\u000f\u0003FR]LQKD\u0012FRSD\u000f\u0003VDQLWiULRV\u000f\u0003GHYHUmR\u0003VHU\u0003UHYHVWLGR\u0003GH\u0010\u0003$V\u0003SDUHGHV\u0003GH\u0003iUHDV\u0003FRPR\u0003VDOD\u0003GH\u0003HVWHULOL]DomR\u0003GH\u0003PDWHULDLV\u000f\u0003H[DPHV\u000f\nPDWHULDO\u0003OLVR\u000f\u0003UHVLVWHQWH\u000f\u0003LPSHUPHiYHO\u0003H\u0003ODYiYHO\u001e\nVHP\u0003R\u0003XVR\u0003GDV\u0003PmRV\u0011FRP\u0003WDPSD\u0003H\u0003SHGDO\u000f\u0003SLD\u0003FRP\u0003iJXD\u0003FRUUHQWH\u000f\u0003VDEmR\u0003OtTXLGR\u0003H\u0003WRDOKD\u0003GHVFDUWiYHO\n\u0010\u0003+DYHUi\u0003ODYDWyULR\u0003H[FOXVLYR\u0003SDUD\u0003ODYDJHP\u0003GDV\u0003PmRV\u0003HP\u0003FDGD\u0003FRQVXOWyULR\u0011\nPHFkQLFD\u0003FRP\u0003UHQRYDomR\u0003GH\u0003DU\u000f\u0003DPERV\u0003GH\u0003DFRUGR\u0003FRP\u0003D\u00035'&\u0003\u0018\u0013\u0012\u0013\u0015\u0011fechamento escamoteado;\n\u0010\u00037RGRV\u0003RV\u0003ODYDWyULRV\u0003GH\u0003KLJLHQL]DomR\u0003VmR\u0003GRWDGRV\u0003GH\u0003WRUQHLUDV\u0003GH\u0003IHFKDPHQWR\n\u0010\u00037RGDV\u0003DV\u0003iUHDV\u0003TXH\u0003QmR\u0003SRVVXHP\u0003YHQWLODomR\u0003GLUHWDV\u0003VHUmR\u0003DWHQGLGDV\nDUWLILFLDOPHQWH\u0003SRU\u0003VLVWHPDV\u0003GH\u0003DU\u0003FRQGLFLRQDGR\u0003RX\u0003VLVWHPD\u0003GH\u0003YHQWLODomR"
+            }
+          ]
+        }
+      },
+      "secoes_identificadas": []
+    }
+  }
+}

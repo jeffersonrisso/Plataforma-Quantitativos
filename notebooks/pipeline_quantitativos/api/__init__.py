@@ -1,0 +1,1 @@
+"""Módulo api do Pipeline de Quantitativos"""\n__version__ = "1.0.0"\n

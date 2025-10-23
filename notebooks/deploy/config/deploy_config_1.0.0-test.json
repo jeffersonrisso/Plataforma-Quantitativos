@@ -1,0 +1,19 @@
+{
+  "versao": "1.0.0-test",
+  "ambiente": "dev",
+  "timestamp_deploy": "2025-10-22T17:23:28.229492",
+  "configuracao": {
+    "diretorio_base": "C:\\Users\\User\\OneDrive - Questindustries\\Projetos Python\\Plataforma Quantitativos\\notebooks\\deploy",
+    "max_processos": 2,
+    "timeout_processamento": 3600,
+    "recursos": {
+      "memoria_max": "4G",
+      "cpu_max": "80%"
+    },
+    "backups_habilitados": true,
+    "notificacoes": {
+      "email": false,
+      "webhook": false
+    }
+  }
+}

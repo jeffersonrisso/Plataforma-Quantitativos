@@ -1,0 +1,26 @@
+{
+  "configuracoes": {
+    "caminhos": {
+      "raw": "C:\\Users\\User\\OneDrive - Questindustries\\Projetos Python\\Plataforma Quantitativos\\data\\raw",
+      "processed": "C:\\Users\\User\\OneDrive - Questindustries\\Projetos Python\\Plataforma Quantitativos\\data\\processed",
+      "reports": "C:\\Users\\User\\OneDrive - Questindustries\\Projetos Python\\Plataforma Quantitativos\\data\\reports"
+    },
+    "formatos_suportados": [
+      ".pdf",
+      ".dwg",
+      ".rvt"
+    ],
+    "limites": {
+      "tamanho_maximo_mb": 50,
+      "tempo_maximo_processamento": 300,
+      "numero_maximo_arquivos": 1000
+    },
+    "parametros_qualidade": {
+      "taxa_sucesso_minima": 80.0,
+      "materiais_minimos_por_arquivo": 1,
+      "tempo_maximo_por_arquivo": 30
+    }
+  },
+  "timestamp": "20251022_163546",
+  "versao": "1.0.0"
+}

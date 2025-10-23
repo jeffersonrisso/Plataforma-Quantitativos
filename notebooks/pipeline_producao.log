@@ -1,0 +1,12 @@
+2025-10-22 16:20:08,193 - PipelineDeploy - INFO - Iniciando deploy do pipeline
+2025-10-22 16:20:08,193 - PipelineDeploy - INFO - Iniciando deploy do pipeline
+2025-10-22 16:20:08,200 - PipelineDeploy - ERROR - Erro durante deploy: Object of type WindowsPath is not JSON serializable
+2025-10-22 16:20:08,200 - PipelineDeploy - ERROR - Erro durante deploy: Object of type WindowsPath is not JSON serializable
+2025-10-22 16:35:46,277 - PipelineDeploy - INFO - Iniciando deploy do pipeline
+2025-10-22 16:35:46,281 - PipelineDeploy - INFO - Backup criado: C:\Users\User\OneDrive - Questindustries\Projetos Python\Plataforma Quantitativos\data\processed\backup\config_backup_20251022_163546.json
+2025-10-22 16:35:46,286 - PipelineDeploy - INFO - Diretório raw configurado: C:\Users\User\OneDrive - Questindustries\Projetos Python\Plataforma Quantitativos\data\raw
+2025-10-22 16:35:46,288 - PipelineDeploy - INFO - Diretório processed configurado: C:\Users\User\OneDrive - Questindustries\Projetos Python\Plataforma Quantitativos\data\processed
+2025-10-22 16:35:46,290 - PipelineDeploy - INFO - Diretório reports configurado: C:\Users\User\OneDrive - Questindustries\Projetos Python\Plataforma Quantitativos\data\reports
+2025-10-22 16:35:46,291 - PipelineDeploy - INFO - Serviço de processamento inicializado
+2025-10-22 16:35:46,293 - PipelineDeploy - INFO - Serviços inicializados
+2025-10-22 16:35:46,294 - PipelineDeploy - INFO - Deploy concluído com sucesso

@@ -1,0 +1,10 @@
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+psutil>=5.9.0
+Flask>=2.0.0
+Werkzeug>=2.0.0
+dxfgrabber>=0.8.0
+ezdxf>=0.17.0
+PyYAML>=6.0
